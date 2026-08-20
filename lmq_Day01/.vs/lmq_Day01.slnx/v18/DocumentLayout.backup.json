@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EADp Tr\u00ECnh Web\\LTW\\lmq_Day01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF31D98C-F59B-FC3F-A806-A28A406DF2A8}|lmq_Day01.csproj|e:\\l\u1EADp tr\u00ECnh web\\ltw\\lmq_day01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF31D98C-F59B-FC3F-A806-A28A406DF2A8}|lmq_Day01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF31D98C-F59B-FC3F-A806-A28A406DF2A8}|lmq_Day01.csproj|e:\\l\u1EADp tr\u00ECnh web\\ltw\\lmq_day01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF31D98C-F59B-FC3F-A806-A28A406DF2A8}|lmq_Day01.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\LTW\\lmq_Day01\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\LTW\\lmq_Day01\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T07:05:48.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\LTW\\lmq_Day01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\LTW\\lmq_Day01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T07:05:25.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../lmq_Lesson02_MVC/lmq_Lesson02_MVC.csproj" />
+  <Project Path="lmq_lesson02.csproj" />
+</Solution>

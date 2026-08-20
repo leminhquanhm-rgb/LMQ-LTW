@@ -1,0 +1,14 @@
+E:\Lập Trình Web\LTW\lmq_Day01\bin\Debug\net10.0\lmq_Day01.exe
+E:\Lập Trình Web\LTW\lmq_Day01\bin\Debug\net10.0\lmq_Day01.deps.json
+E:\Lập Trình Web\LTW\lmq_Day01\bin\Debug\net10.0\lmq_Day01.runtimeconfig.json
+E:\Lập Trình Web\LTW\lmq_Day01\bin\Debug\net10.0\lmq_Day01.dll
+E:\Lập Trình Web\LTW\lmq_Day01\bin\Debug\net10.0\lmq_Day01.pdb
+E:\Lập Trình Web\LTW\lmq_Day01\obj\Debug\net10.0\lmq_Day01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập Trình Web\LTW\lmq_Day01\obj\Debug\net10.0\lmq_Day01.AssemblyInfoInputs.cache
+E:\Lập Trình Web\LTW\lmq_Day01\obj\Debug\net10.0\lmq_Day01.AssemblyInfo.cs
+E:\Lập Trình Web\LTW\lmq_Day01\obj\Debug\net10.0\lmq_Day01.csproj.CoreCompileInputs.cache
+E:\Lập Trình Web\LTW\lmq_Day01\obj\Debug\net10.0\lmq_Day01.dll
+E:\Lập Trình Web\LTW\lmq_Day01\obj\Debug\net10.0\refint\lmq_Day01.dll
+E:\Lập Trình Web\LTW\lmq_Day01\obj\Debug\net10.0\lmq_Day01.pdb
+E:\Lập Trình Web\LTW\lmq_Day01\obj\Debug\net10.0\lmq_Day01.genruntimeconfig.cache
+E:\Lập Trình Web\LTW\lmq_Day01\obj\Debug\net10.0\ref\lmq_Day01.dll
