@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lmq_Lesson02_MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a24e8e21e7fedf44cee42474d7b7c37ab7a61777")]
 [assembly: System.Reflection.AssemblyProductAttribute("lmq_Lesson02_MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lmq_Lesson02_MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
