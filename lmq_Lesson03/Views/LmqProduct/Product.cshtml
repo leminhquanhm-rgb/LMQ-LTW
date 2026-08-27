@@ -1,0 +1,40 @@
+﻿@{
+	ViewData["Title"] = "Danh sách sản phẩm";
+	var products = ViewData["products"] as List<lmq_Lesson03.Models.LmqProduct>;
+	var stt = 0;
+}
+<h1>@ViewData["Title"]</h1>
+<hr />
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>#</th>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Quantity</th>
+			<th>Price</th>
+			<th>Money</th>
+			<th>Action</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var item in products)
+		{
+			stt++;
+			<tr>
+				<td>@stt</td>
+				<td>@item.productId</td>
+				<td>@item.productName</td>
+				<td>@item.quantity</td>
+				<td>@item.price</td>
+				<td>@item.quantity*@item.price</td>
+				<td>
+					<a href="" class="btn btn-primary">Xem</a>
+					<a href="" class="btn btn-info">Sửa</a>
+					<a href="" class="btn btn-danger">Xóa</a>
+				</td>
+
+			</tr>
+		}
+	</tbody>
+</table>

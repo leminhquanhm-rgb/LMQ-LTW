@@ -1,0 +1,24 @@
+﻿
+@{
+	ViewData["Title"] = "Thông tin Sản phẩm";
+}
+<h1>@ViewData["Title"] </h1>
+<hr />
+<div class="alert alert-danger">
+	<h2>lấy từ ViewBag</h2>
+	<p>ID: @ViewBag.productVB.productId</p>
+	<p>NAME: @ViewBag.productVB.productName</p>
+	<p>QUANTITY: @ViewBag.productVB.quantity</p>
+	<p>PRICE: @ViewBag.productVB.price</p>
+</div>
+<hr />
+@{
+	var product = ViewData["productVD"] as lmq_Lesson03.Models.LmqProduct;
+}
+<div class="alert alert-info"> 
+	<h2>Lấy từ ViewData</h2>
+	<p>ID: @product.productId</p>
+	<p>NAME: @product.productName</p>
+	<p>QUANTITY: @product.quantity</p>
+	<p>PRICE: @product.price</p>
+</div>
