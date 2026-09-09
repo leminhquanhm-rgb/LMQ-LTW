@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DEMO LAB - @ViewData["Title"]</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container">
+            <a class="navbar-brand" asp-controller="Home" asp-action="Index">DEMO LAB</a>
+            <ul class="nav navbar-nav">
+                <li class="active"><a asp-controller="Home" asp-action="Index">Trang chủ</a></li>
+                <li><a>Giới thiệu</a></li>
+                <li><a>Liên hệ</a></li>
+                <li><a>Sản Phẩm</a></li>
+                
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container" style="margin-top:20px;">
+        <div class="row">
+            <!-- Cột trái: danh mục, load từ PartialView -->
+            <div class="col-md-3">
+                <partial name="CategoryMenu" />
+            </div>
+
+            <!-- Cột phải: nội dung riêng từng trang -->
+            <div class="col-md-9">
+                @RenderBody()
+            </div>
+        </div>
+
+        <!-- Khung sản phẩm phía dưới: load từ Component -->
+        <hr />
+        <h4>Sản phẩm nổi bật</h4>
+        @await Component.InvokeAsync("HotProduct")
+
+        <!-- Footer -->
+        <hr />
+        <!-- Footer -->
+        <div style="background-color:#000; color:#fff; padding:20px; margin-top:20px;">
+            <div class="row">
+                <div class="col-md-6">
+                    <h4 style="color:#fff;">GIỚI THIỆU</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p>
+                </div>
+                <div class="col-md-6">
+                    <h4 style="color:#fff;">LIÊN HỆ</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,8 @@
+﻿@using Lmq_BTTL_Lab3.Models
+<div class="list-group">
+    <div class="list-group-item active">Danh mục sản phẩm</div>
+    @foreach (var cate in Category.GetCategories())
+    {
+        <a class="list-group-item">@cate.Name</a>
+    }
+</div>
