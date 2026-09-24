@@ -1,0 +1,61 @@
+@model IEnumerable<Lmq_lesson6_Model.Views.DataModels.Member>
+
+@{
+    ViewData["Title"] = "LmqIndex";
+}
+
+<h1>LmqIndex</h1>
+
+<p>
+    <a asp-action="LmqCreate">Create New</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MemberId)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fullname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.MemberId)
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Fullname)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Email)
+            </td>
+            <td>
+                <a asp-action="LmqEdit" asp-route-id="@item.MemberId">Sửa</a> |
+                <a asp-action="Details" asp-route-id="@item.MemberId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MemberId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

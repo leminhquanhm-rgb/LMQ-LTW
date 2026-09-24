@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Lmq_lesson05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|d:\\c#\\lmq_lesson05\\lmq_lesson05\\views\\shared\\_lmqfooterpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|solutionrelative:lmq_lesson05\\views\\shared\\_lmqfooterpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|d:\\c#\\lmq_lesson05\\lmq_lesson05\\viewcomponents\\lmqcategoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|solutionrelative:lmq_lesson05\\viewcomponents\\lmqcategoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|d:\\c#\\lmq_lesson05\\lmq_lesson05\\views\\shared\\components\\lmqcategory\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|solutionrelative:lmq_lesson05\\views\\shared\\components\\lmqcategory\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|d:\\c#\\lmq_lesson05\\lmq_lesson05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|solutionrelative:lmq_lesson05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|d:\\c#\\lmq_lesson05\\lmq_lesson05\\models\\lmqcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|solutionrelative:lmq_lesson05\\models\\lmqcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|d:\\c#\\lmq_lesson05\\lmq_lesson05\\views\\shared\\_lmqbannerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|solutionrelative:lmq_lesson05\\views\\shared\\_lmqbannerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|d:\\c#\\lmq_lesson05\\lmq_lesson05\\views\\shared\\_lmqheaderpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|solutionrelative:lmq_lesson05\\views\\shared\\_lmqheaderpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|d:\\c#\\lmq_lesson05\\lmq_lesson05\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|solutionrelative:lmq_lesson05\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|d:\\c#\\lmq_lesson05\\lmq_lesson05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88617080-85DE-A9D7-CBD4-BE3C11E306DF}|Lmq_lesson05\\Lmq_lesson05.csproj|solutionrelative:lmq_lesson05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Views\\Shared\\Components\\LmqCategory\\Default.cshtml",
+              "RelativeDocumentMoniker": "Lmq_lesson05\\Views\\Shared\\Components\\LmqCategory\\Default.cshtml",
+              "ToolTip": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Views\\Shared\\Components\\LmqCategory\\Default.cshtml",
+              "RelativeToolTip": "Lmq_lesson05\\Views\\Shared\\Components\\LmqCategory\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T08:45:02.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LmqCategoryViewComponent.cs",
+              "DocumentMoniker": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\ViewComponents\\LmqCategoryViewComponent.cs",
+              "RelativeDocumentMoniker": "Lmq_lesson05\\ViewComponents\\LmqCategoryViewComponent.cs",
+              "ToolTip": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\ViewComponents\\LmqCategoryViewComponent.cs",
+              "RelativeToolTip": "Lmq_lesson05\\ViewComponents\\LmqCategoryViewComponent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T08:37:18.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lmq_lesson05\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lmq_lesson05\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T03:02:34.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LmqCategory.cs",
+              "DocumentMoniker": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Models\\LmqCategory.cs",
+              "RelativeDocumentMoniker": "Lmq_lesson05\\Models\\LmqCategory.cs",
+              "ToolTip": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Models\\LmqCategory.cs",
+              "RelativeToolTip": "Lmq_lesson05\\Models\\LmqCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T08:33:54.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LmqBannerPartialView.cshtml",
+              "DocumentMoniker": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Views\\Shared\\_LmqBannerPartialView.cshtml",
+              "RelativeDocumentMoniker": "Lmq_lesson05\\Views\\Shared\\_LmqBannerPartialView.cshtml",
+              "ToolTip": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Views\\Shared\\_LmqBannerPartialView.cshtml",
+              "RelativeToolTip": "Lmq_lesson05\\Views\\Shared\\_LmqBannerPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T08:16:19.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LmqFooterPartialView.cshtml",
+              "DocumentMoniker": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Views\\Shared\\_LmqFooterPartialView.cshtml",
+              "RelativeDocumentMoniker": "Lmq_lesson05\\Views\\Shared\\_LmqFooterPartialView.cshtml",
+              "ToolTip": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Views\\Shared\\_LmqFooterPartialView.cshtml",
+              "RelativeToolTip": "Lmq_lesson05\\Views\\Shared\\_LmqFooterPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T08:12:15.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LmqHeaderPartialView.cshtml",
+              "DocumentMoniker": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Views\\Shared\\_LmqHeaderPartialView.cshtml",
+              "RelativeDocumentMoniker": "Lmq_lesson05\\Views\\Shared\\_LmqHeaderPartialView.cshtml",
+              "ToolTip": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Views\\Shared\\_LmqHeaderPartialView.cshtml",
+              "RelativeToolTip": "Lmq_lesson05\\Views\\Shared\\_LmqHeaderPartialView.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwA4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T08:08:19.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Lmq_lesson05\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Lmq_lesson05\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T02:56:38.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lmq_lesson05\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C#\\Lmq_lesson05\\Lmq_lesson05\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lmq_lesson05\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T02:54:20.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Lmq_lesson05.Models.LmqCategory>
+
+<ul class="bg-info my-3 list-group">
+    <li class="list-group-item active">DANH MỤC</li>
+    @foreach (var item in Model)
+    {
+        
+        <li class="list-group-item">
+            <a asp-controller="LmqProduct" asp-action="Index" asp-route-id="@item.categoryId">
+                @item.categoryName
+            </a>
+        </li>
+
+    }
+</ul>

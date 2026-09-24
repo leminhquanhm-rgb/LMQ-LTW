@@ -97,3 +97,4 @@ E:\Lập Trình Web\Bài Tập\Lmq_BTTL_Lab3\obj\Debug\net10.0\refint\Lmq_BTTL_L
 E:\Lập Trình Web\Bài Tập\Lmq_BTTL_Lab3\obj\Debug\net10.0\Lmq_BTTL_Lab3.pdb
 E:\Lập Trình Web\Bài Tập\Lmq_BTTL_Lab3\obj\Debug\net10.0\Lmq_BTTL_Lab3.genruntimeconfig.cache
 E:\Lập Trình Web\Bài Tập\Lmq_BTTL_Lab3\obj\Debug\net10.0\ref\Lmq_BTTL_Lab3.dll
+E:\Lập Trình Web\Bài Tập\Lmq_BTTL_Lab3\obj\Debug\net10.0\Lmq_BTTL.E86B85D5.Up2Date

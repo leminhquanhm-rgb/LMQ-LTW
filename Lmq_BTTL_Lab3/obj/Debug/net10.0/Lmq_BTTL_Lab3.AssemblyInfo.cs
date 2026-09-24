@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lmq_BTTL_Lab3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22b63f5a87bff81be05ba4ea72bf7c0d15b9db64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+326c69caff70384184feee7db88c60b636d7b5d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lmq_BTTL_Lab3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lmq_BTTL_Lab3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

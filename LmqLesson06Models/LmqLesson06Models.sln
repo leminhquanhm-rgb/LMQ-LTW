@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LmqLesson06Models", "LmqLesson06Models.csproj", "{83847E9F-B2DB-4686-9D39-B2689B1F4F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83847E9F-B2DB-4686-9D39-B2689B1F4F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83847E9F-B2DB-4686-9D39-B2689B1F4F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83847E9F-B2DB-4686-9D39-B2689B1F4F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83847E9F-B2DB-4686-9D39-B2689B1F4F22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {298413E0-C7DD-4ED7-814A-D88325F054BA}
+	EndGlobalSection
+EndGlobal

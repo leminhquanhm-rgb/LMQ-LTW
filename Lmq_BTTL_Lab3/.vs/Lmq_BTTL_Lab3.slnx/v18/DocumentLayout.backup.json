@@ -3,44 +3,40 @@
   "WorkspaceRootPath": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|solutionrelative:views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\lmq_bttl_lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|solutionrelative:lmq_bttl_lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|solutionrelative:views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|solutionrelative:views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|solutionrelative:views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\views\\shared\\components\\hotproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|solutionrelative:views\\shared\\components\\hotproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\views\\shared\\components\\hotproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|solutionrelative:views\\shared\\components\\hotproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\viewcomponents\\hotproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|solutionrelative:viewcomponents\\hotproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\viewcomponents\\hotproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|solutionrelative:viewcomponents\\hotproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\views\\shared\\categorymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|solutionrelative:views\\shared\\categorymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\lmq_bttl_lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|solutionrelative:lmq_bttl_lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\views\\shared\\categorymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|solutionrelative:views\\shared\\categorymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CA261B3-C80A-48EC-B006-6FE23BA3345C}|Lmq_BTTL_Lab3.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_bttl_lab3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E41940-A380-868A-06F2-C67317CFB1A9}|Lmq_BTTL_Lab3.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,21 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-09T08:39:39.624Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -80,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index1.cshtml",
               "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\Views\\Home\\Index1.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index1.cshtml",
@@ -93,20 +76,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "my_layout.cshtml",
               "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\Views\\Shared\\my_layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\my_layout.cshtml",
-              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\Views\\Shared\\my_layout.cshtml*",
-              "RelativeToolTip": "Views\\Shared\\my_layout.cshtml*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAOAAAAAAAAAA==",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\Views\\Shared\\my_layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\my_layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwDYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-09T08:32:47.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Default.cshtml",
               "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\HotProduct\\Default.cshtml",
@@ -119,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "HotProductViewComponent.cs",
               "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\ViewComponents\\HotProductViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponents\\HotProductViewComponent.cs",
@@ -132,8 +115,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Lmq_BTTL_Lab3",
+              "DocumentIndex": 0,
+              "Title": "Lmq_BTTL_Lab3.csproj",
               "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\Lmq_BTTL_Lab3.csproj",
               "RelativeDocumentMoniker": "Lmq_BTTL_Lab3.csproj",
               "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\Lmq_BTTL_Lab3.csproj",
@@ -145,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "CategoryMenu.cshtml",
               "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\Views\\Shared\\CategoryMenu.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\CategoryMenu.cshtml",
@@ -153,12 +136,11 @@
               "RelativeToolTip": "Views\\Shared\\CategoryMenu.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-09T08:26:44.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-09T08:26:44.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -166,12 +148,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T08:25:02.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-09T08:25:02.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_BTTL_Lab3\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -179,8 +160,7 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T08:23:02.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-09T08:23:02.43Z"
             }
           ]
         }
