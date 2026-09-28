@@ -1,0 +1,37 @@
+﻿@model Lmq_labModel.Models.LmqUser
+
+<h1>Edit User</h1>
+
+<form asp-action="Edit" method="post">
+
+    <div>
+        <label asp-for="Id"></label>
+        <input asp-for="Id" />
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Address"></label>
+        <input asp-for="Address" />
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" />
+    </div>
+
+    <br />
+
+    <button type="submit">Save</button>
+
+</form>

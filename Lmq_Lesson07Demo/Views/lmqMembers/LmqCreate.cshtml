@@ -1,0 +1,68 @@
+﻿@model Lmq_Lesson07Demo.Models.ViewModels.LmqRegisterViewModel
+
+<h2>Đăng ký thành viên</h2>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+
+        <form asp-action="LmqCreate" method="post">
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="lmqUserName" class="control-label"></label>
+                <input asp-for="lmqUserName" class="form-control" />
+                <span asp-validation-for="lmqUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="lmqFullName" class="control-label"></label>
+                <input asp-for="lmqFullName" class="form-control" />
+                <span asp-validation-for="lmqFullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="lmqPassword" class="control-label"></label>
+                <input asp-for="lmqPassword" class="form-control" />
+                <span asp-validation-for="lmqPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="lmqConfirmPassword" class="control-label"></label>
+                <input asp-for="lmqConfirmPassword" class="form-control" />
+                <span asp-validation-for="lmqConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="lmqEmail" class="control-label"></label>
+                <input asp-for="lmqEmail" class="form-control" />
+                <span asp-validation-for="lmqEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="lmqPhone" class="control-label"></label>
+                <input asp-for="lmqPhone" class="form-control" />
+                <span asp-validation-for="lmqPhone" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="lmqBirthday" class="control-label"></label>
+                <input asp-for="lmqBirthday" class="form-control" />
+                <span asp-validation-for="lmqBirthday" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Lưu" class="btn btn-primary" />
+            </div>
+
+        </form>
+
+    </div>
+</div>
+
+<br />
+
+<div>
+    <a asp-action="LmqIndex">Quay lại danh sách</a>
+</div>

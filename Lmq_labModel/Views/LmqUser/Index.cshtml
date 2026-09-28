@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Lmq_labModel.Models.LmqUser>
+
+<h1>Danh sách User</h1>
+
+@foreach (var lmqUser in Model)
+{
+    <p>ID: @lmqUser.Id</p>
+    <p>Họ tên: @lmqUser.Name</p>
+    <p>Địa chỉ: @lmqUser.Address</p>
+    <p>Email: @lmqUser.Email</p>
+
+    <hr />
+}

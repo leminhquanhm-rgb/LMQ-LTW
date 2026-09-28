@@ -1,0 +1,79 @@
+@model IEnumerable<Lmq_Lesson07Demo.Models.DataModels.LmqMember>
+
+@{
+    ViewData["Title"] = "Danh sách thành viên";
+}
+
+<h1>Danh sách thành viên</h1>
+
+<p>
+    <a asp-action="LmqCreate">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.lmqUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lmqFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lmqPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lmqEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lmqPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lmqBirthday)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.lmqUserName)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.lmqFullName)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.lmqPassword)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.lmqEmail)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.lmqPhone)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.lmqBirthday)
+                </td>
+
+                <td>
+                    <a asp-action="Edit"
+                       asp-route-id="@item.lmqMemberId">Edit</a> |
+
+                    <a asp-action="Details"
+                       asp-route-id="@item.lmqMemberId">Details</a> |
+
+                    <a asp-action="Delete"
+                       asp-route-id="@item.lmqMemberId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

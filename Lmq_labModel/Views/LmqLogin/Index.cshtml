@@ -1,0 +1,31 @@
+﻿@model Lmq_labModel.Models.LmqLogin
+
+<h1>Đăng nhập</h1>
+
+<form method="post">
+
+    <div>
+        <label>UserName</label>
+        <input type="text" name="UserName" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Password</label>
+        <input type="password" name="Password" />
+    </div>
+
+    <br />
+
+    <button type="submit">Đăng nhập</button>
+
+</form>
+
+@if (Model != null)
+{
+    <hr />
+
+    <p>UserName: @Model.UserName</p>
+    <p>Password: @Model.Password</p>
+}

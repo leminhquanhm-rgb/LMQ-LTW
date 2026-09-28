@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lmq_Lesson07Demo/1.0.0": {
+        "runtime": {
+          "Lmq_Lesson07Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lmq_Lesson07Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

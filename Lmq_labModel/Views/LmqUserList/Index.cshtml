@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Lmq_labModel.Models.LmqUser>
+
+<h1>Danh sách User</h1>
+
+<table border="1" cellpadding="10">
+    <tr>
+        <th>ID</th>
+        <th>Họ tên</th>
+        <th>Địa chỉ</th>
+        <th>Email</th>
+    </tr>
+
+    @foreach (var lmqUser in Model)
+    {
+        <tr>
+            <td>@lmqUser.Id</td>
+            <td>@lmqUser.Name</td>
+            <td>@lmqUser.Address</td>
+            <td>@lmqUser.Email</td>
+        </tr>
+    }
+</table>
