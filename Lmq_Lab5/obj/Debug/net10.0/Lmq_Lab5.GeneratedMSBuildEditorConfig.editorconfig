@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lmq_Lab5
+build_property.RootNamespace = Lmq_Lab5
+build_property.ProjectDir = E:\Lập Trình Web\Bài Tập\Lmq_Lab5\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 10.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Lập Trình Web\Bài Tập\Lmq_Lab5
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/LmqAccount/LmqCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG1xQWNjb3VudFxMbXFDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/LmqAccount/LmqDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG1xQWNjb3VudFxMbXFEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/LmqAccount/LmqDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG1xQWNjb3VudFxMbXFEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/LmqAccount/LmqEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG1xQWNjb3VudFxMbXFFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/LmqAccount/LmqIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG1xQWNjb3VudFxMbXFJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/LmqCategory/LmqIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG1xQ2F0ZWdvcnlcTG1xSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/LmqProduct/LmqCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG1xUHJvZHVjdFxMbXFDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/LmqProduct/LmqDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG1xUHJvZHVjdFxMbXFEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/LmqProduct/LmqDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG1xUHJvZHVjdFxMbXFEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/LmqProduct/LmqEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG1xUHJvZHVjdFxMbXFFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/LmqProduct/LmqIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG1xUHJvZHVjdFxMbXFJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Lập Trình Web/Bài Tập/Lmq_Lab5/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5hnrn8kpet

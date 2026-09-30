@@ -16,6 +16,12 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
             <div class="form-group">
+                <label asp-for="lmqMemberId" class="control-label"></label>
+                <input asp-for="lmqMemberId" class="form-control" />
+                <span asp-validation-for="lmqMemberId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
                 <label asp-for="lmqUserName" class="control-label"></label>
                 <input asp-for="lmqUserName" class="form-control" />
                 <span asp-validation-for="lmqUserName" class="text-danger"></span>
