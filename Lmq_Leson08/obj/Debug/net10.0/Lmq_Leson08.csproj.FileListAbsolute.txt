@@ -1,0 +1,465 @@
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\appsettings.Development.json
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\appsettings.json
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.staticwebassets.runtime.json
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.staticwebassets.endpoints.json
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.exe
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.deps.json
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.runtimeconfig.json
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.pdb
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Azure.Core.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Azure.Identity.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Humanizer.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\System.ClientModel.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\System.CodeDom.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\System.Memory.Data.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+E:\Lập Trình Web\Lmq_Leson08\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.csproj.AssemblyReference.cache
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.AssemblyInfoInputs.cache
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.AssemblyInfo.cs
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.csproj.CoreCompileInputs.cache
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.MvcApplicationPartsAssemblyInfo.cache
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.RazorAssemblyInfo.cache
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.RazorAssemblyInfo.cs
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\scopedcss\bundle\Lmq_Leson08.styles.css
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\scopedcss\projectbundle\Lmq_Leson08.bundle.scp.css
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\ngf6uun1l2-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\uz2o9low3p-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\e5c1t0hwc7-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\mjqr19mune-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\mr3ofbznl6-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\vk088vesmt-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\v8o68zoamv-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\fx25crq6fb-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\rn86202ekq-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\6r2lhhspq5-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\ul60qbib7b-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\vannv8cfnv-{0}-ub07r2b239-ub07r2b239.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\6l0yei2plg-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\d0o2z49313-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\qbezamnxkv-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\46bp6qexpd-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\xdmf5dpwj2-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\htkk4xk5zg-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\yr2orh1xo4-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\9byt2ldgrw-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\25pllifreg-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\pmgaebano9-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\0holmtts86-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\ldadurxp6q-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\gredw0rxq0-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\j28ksaug8h-{0}-06098lyss8-06098lyss8.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\iid3wyy6ob-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\x7k54ou64m-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\imw9y5g7h6-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\k54jow27r4-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\lxl35ci6bb-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\xk6f8exsx6-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\gnsv4ac08u-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\8tocqqp6nn-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\0yk12v1ze7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\z2me0e1dle-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\012qr5mjyj-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\izwl5c8web-{0}-493y06b0oq-493y06b0oq.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\2s4fgf6i5g-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\zg4l1q5095-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\gvec0pwdfo-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\spbtfc8m3b-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\ve4ns2vcf3-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\yk3ip0cvbu-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\udmqgytbme-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\cva2cn38b5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\vem0kd48mz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\3520bzfz5q-{0}-47otxtyo56-47otxtyo56.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\ffajkwyq9o-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\v1ddgqtnyt-{0}-356vix0kms-356vix0kms.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\8xzdraih0c-{0}-83jwlth58m-83jwlth58m.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\jzd4u5d758-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\0flghbcs2o-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\4nfj1hqce2-{0}-ag7o75518u-ag7o75518u.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\dovln4yd5t-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\izga4rj1z1-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\4jfcq665ev-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\s7ivr77pin-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\rnwu1wcdl9-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\dn5dy3s9u5-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\v831rvs38k-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\ktdbwf5k8i-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\s6v7htn3pj-{0}-0sibe3gnbs-0sibe3gnbs.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\compressed\qfuvcjohai-{0}-0sibe3gnbs-0sibe3gnbs.gz
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\staticwebassets.build.json
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\staticwebassets.development.json
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\swae.build.ex.cache
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leso.854FB415.Up2Date
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.dll
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\refint\Lmq_Leson08.dll
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.pdb
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.genruntimeconfig.cache
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\ref\Lmq_Leson08.dll
+E:\Lập Trình Web\Lmq_Leson08\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\appsettings.Development.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\appsettings.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.staticwebassets.endpoints.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.staticwebassets.runtime.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.exe
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.deps.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.runtimeconfig.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Lmq_Leson08.pdb
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Azure.Core.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Azure.Identity.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Humanizer.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\System.ClientModel.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\System.CodeDom.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\System.Memory.Data.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.csproj.AssemblyReference.cache
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.AssemblyInfoInputs.cache
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.AssemblyInfo.cs
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.csproj.CoreCompileInputs.cache
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.MvcApplicationPartsAssemblyInfo.cache
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.RazorAssemblyInfo.cache
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.RazorAssemblyInfo.cs
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.sourcelink.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\scopedcss\bundle\Lmq_Leson08.styles.css
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\scopedcss\projectbundle\Lmq_Leson08.bundle.scp.css
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\ngf6uun1l2-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\uz2o9low3p-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\e5c1t0hwc7-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\mjqr19mune-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\mr3ofbznl6-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\vk088vesmt-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\v8o68zoamv-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\fx25crq6fb-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\rn86202ekq-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\6r2lhhspq5-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\ul60qbib7b-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\vannv8cfnv-{0}-ub07r2b239-ub07r2b239.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\6l0yei2plg-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\d0o2z49313-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\qbezamnxkv-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\46bp6qexpd-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\xdmf5dpwj2-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\htkk4xk5zg-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\yr2orh1xo4-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\9byt2ldgrw-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\25pllifreg-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\pmgaebano9-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\0holmtts86-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\ldadurxp6q-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\gredw0rxq0-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\j28ksaug8h-{0}-06098lyss8-06098lyss8.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\iid3wyy6ob-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\x7k54ou64m-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\imw9y5g7h6-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\k54jow27r4-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\lxl35ci6bb-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\xk6f8exsx6-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\gnsv4ac08u-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\8tocqqp6nn-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\0yk12v1ze7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\z2me0e1dle-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\012qr5mjyj-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\izwl5c8web-{0}-493y06b0oq-493y06b0oq.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\2s4fgf6i5g-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\zg4l1q5095-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\gvec0pwdfo-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\spbtfc8m3b-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\ve4ns2vcf3-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\yk3ip0cvbu-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\udmqgytbme-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\cva2cn38b5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\vem0kd48mz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\3520bzfz5q-{0}-47otxtyo56-47otxtyo56.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\ffajkwyq9o-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\v1ddgqtnyt-{0}-356vix0kms-356vix0kms.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\8xzdraih0c-{0}-83jwlth58m-83jwlth58m.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\jzd4u5d758-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\0flghbcs2o-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\4nfj1hqce2-{0}-ag7o75518u-ag7o75518u.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\dovln4yd5t-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\izga4rj1z1-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\4jfcq665ev-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\s7ivr77pin-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\rnwu1wcdl9-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\dn5dy3s9u5-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\v831rvs38k-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\ktdbwf5k8i-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\s6v7htn3pj-{0}-0sibe3gnbs-0sibe3gnbs.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\compressed\qfuvcjohai-{0}-0sibe3gnbs-0sibe3gnbs.gz
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\staticwebassets.build.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\staticwebassets.development.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\swae.build.ex.cache
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leso.854FB415.Up2Date
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\refint\Lmq_Leson08.dll
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.pdb
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\Lmq_Leson08.genruntimeconfig.cache
+E:\Lập Trình Web\Bài Tập\Lmq_Leson08\obj\Debug\net10.0\ref\Lmq_Leson08.dll

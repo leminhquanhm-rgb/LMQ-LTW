@@ -1,0 +1,47 @@
+@model Lmq_Leson08.Models.Book
+
+@{
+    ViewData["Title"] = "Xóa Sách";
+}
+
+<h1>Xóa Sách</h1>
+<div class="alert alert-danger" role="alert">
+    <strong>Cảnh báo:</strong> Bạn có chắc chắn muốn xóa cuốn sách này không? Hành động này không thể hoàn tác!
+</div>
+
+<div class="card mb-3 shadow-sm">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.BookId)</dt>
+            <dd class="col-sm-9"><strong>@Html.DisplayFor(model => model.BookId)</strong></dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Title)</dt>
+            <dd class="col-sm-9"><h5 class="text-danger mb-0">@Html.DisplayFor(model => model.Title)</h5></dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Author)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Author)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Release)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Release)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Price)</dt>
+            <dd class="col-sm-9 text-danger fw-bold">@(Model.Price.HasValue ? Model.Price.Value.ToString("N0") + " đ" : "")</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Category)</dt>
+            <dd class="col-sm-9">@(Model.Category?.CategoryName)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Publisher)</dt>
+            <dd class="col-sm-9">@(Model.Publisher?.PublisherName)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Description)</dt>
+            <dd class="col-sm-9"><div style="white-space: pre-line;">@Html.DisplayFor(model => model.Description)</div></dd>
+        </dl>
+    </div>
+</div>
+
+<form asp-action="Delete" asp-route-id="@Model?.BookId">
+    <input type="hidden" asp-for="BookId" />
+    <input type="hidden" name="id" value="@Model?.BookId" />
+    <input type="submit" value="Xác nhận xóa" class="btn btn-danger" />
+    <a asp-action="Index" class="btn btn-secondary ms-2">Hủy / Quay lại danh sách</a>
+</form>

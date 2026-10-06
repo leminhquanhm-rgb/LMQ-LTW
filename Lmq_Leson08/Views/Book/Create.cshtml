@@ -1,0 +1,87 @@
+@model Lmq_Leson08.Models.Book
+
+@{
+    ViewData["Title"] = "Thêm mới Sách";
+}
+
+<h1>Thêm mới Sách</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-8">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <div class="mb-3">
+                <label asp-for="BookId" class="form-label"></label>
+                <input asp-for="BookId" class="form-control" maxlength="10" placeholder="Nhập mã sách (tối đa 10 ký tự)" />
+                <span asp-validation-for="BookId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Title" class="form-label"></label>
+                <input asp-for="Title" class="form-control" maxlength="200" placeholder="Nhập tên sách" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label asp-for="Author" class="form-label"></label>
+                    <input asp-for="Author" class="form-control" maxlength="100" placeholder="Nhập tác giả" />
+                    <span asp-validation-for="Author" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label asp-for="Release" class="form-label"></label>
+                    <input asp-for="Release" type="number" class="form-control" placeholder="Năm phát hành (VD: 2024)" />
+                    <span asp-validation-for="Release" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label asp-for="Price" class="form-label"></label>
+                    <input asp-for="Price" type="number" step="any" class="form-control" placeholder="Nhập đơn giá" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label asp-for="Picture" class="form-label"></label>
+                    <input asp-for="Picture" class="form-control" maxlength="100" placeholder="Tên tệp hoặc URL ảnh" />
+                    <span asp-validation-for="Picture" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label asp-for="CategoryId" class="form-label">Thể loại</label>
+                    <select asp-for="CategoryId" class="form-select" asp-items="ViewBag.CategoryId">
+                        <option value="">-- Chọn Thể loại --</option>
+                    </select>
+                    <span asp-validation-for="CategoryId" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label asp-for="PublisherId" class="form-label">Nhà xuất bản</label>
+                    <select asp-for="PublisherId" class="form-select" asp-items="ViewBag.PublisherId">
+                        <option value="">-- Chọn Nhà xuất bản --</option>
+                    </select>
+                    <span asp-validation-for="PublisherId" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Description" class="form-label"></label>
+                <textarea asp-for="Description" class="form-control" rows="4" placeholder="Nhập tóm tắt / mô tả sách"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="mt-4">
+                <input type="submit" value="Tạo mới" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary ms-2">Quay lại danh sách</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+

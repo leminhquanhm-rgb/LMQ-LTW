@@ -1,0 +1,83 @@
+@model IEnumerable<Lmq_Leson08.Models.Book>
+
+@{
+    ViewData["Title"] = "Danh sách Sách";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1>Danh sách Sách</h1>
+    <a asp-action="Create" class="btn btn-primary">
+        + Thêm mới Sách
+    </a>
+</div>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-striped table-hover align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.BookId)</th>
+                <th>@Html.DisplayNameFor(model => model.Picture)</th>
+                <th>@Html.DisplayNameFor(model => model.Title)</th>
+                <th>@Html.DisplayNameFor(model => model.Author)</th>
+                <th>@Html.DisplayNameFor(model => model.Release)</th>
+                <th>@Html.DisplayNameFor(model => model.Price)</th>
+                <th>@Html.DisplayNameFor(model => model.Category)</th>
+                <th>@Html.DisplayNameFor(model => model.Publisher)</th>
+                <th class="text-center" style="min-width: 180px;">Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var item in Model) {
+                <tr>
+                    <td>
+                        <strong>@Html.DisplayFor(modelItem => item.BookId)</strong>
+                    </td>
+                    <td class="text-center">
+                        @if (!string.IsNullOrEmpty(item.Picture))
+                        {
+                            <img src="@item.Picture" alt="@item.Title" style="max-height: 55px; max-width: 55px; object-fit: cover;" class="rounded border" onerror="this.style.display='none'" />
+                        }
+                        else
+                        {
+                            <span class="text-muted small">Không có</span>
+                        }
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Author)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Release)
+                    </td>
+                    <td>
+                        @(item.Price.HasValue ? item.Price.Value.ToString("N0") + " đ" : "")
+                    </td>
+                    <td>
+                        @(item.Category?.CategoryName)
+                    </td>
+                    <td>
+                        @(item.Publisher?.PublisherName)
+                    </td>
+                    <td class="text-center">
+                        <div class="btn-group btn-group-sm" role="group">
+                            <a asp-action="Edit" asp-route-id="@item.BookId" class="btn btn-warning">Sửa</a>
+                            <a asp-action="Details" asp-route-id="@item.BookId" class="btn btn-info text-white">Chi tiết</a>
+                            <a asp-action="Delete" asp-route-id="@item.BookId" class="btn btn-danger">Xóa</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="9" class="text-center text-muted py-4">Chưa có dữ liệu sách nào.</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

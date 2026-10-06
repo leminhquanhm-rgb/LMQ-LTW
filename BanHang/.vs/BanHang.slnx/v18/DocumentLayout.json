@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\BanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CD1E-D37D-28A5-F9D7-C5EB2C44D5D7}|BanHang.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\banhang\\frmmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C18CD1E-D37D-28A5-F9D7-C5EB2C44D5D7}|BanHang.csproj|solutionrelative:frmmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CD1E-D37D-28A5-F9D7-C5EB2C44D5D7}|BanHang.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\banhang\\frmmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C18CD1E-D37D-28A5-F9D7-C5EB2C44D5D7}|BanHang.csproj|solutionrelative:frmmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CD1E-D37D-28A5-F9D7-C5EB2C44D5D7}|BanHang.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\banhang\\classes\\databaseprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C18CD1E-D37D-28A5-F9D7-C5EB2C44D5D7}|BanHang.csproj|solutionrelative:classes\\databaseprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMatHang.cs [Design]",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\BanHang\\frmMatHang.cs",
+              "RelativeDocumentMoniker": "frmMatHang.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\BanHang\\frmMatHang.cs [Design]",
+              "RelativeToolTip": "frmMatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T06:19:42.557Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMatHang.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\BanHang\\frmMatHang.cs",
+              "RelativeDocumentMoniker": "frmMatHang.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\BanHang\\frmMatHang.cs",
+              "RelativeToolTip": "frmMatHang.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T07:13:34.248Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBaseProcess.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\BanHang\\Classes\\DataBaseProcess.cs",
+              "RelativeDocumentMoniker": "Classes\\DataBaseProcess.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\BanHang\\Classes\\DataBaseProcess.cs",
+              "RelativeToolTip": "Classes\\DataBaseProcess.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwv0YAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T06:47:30.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
