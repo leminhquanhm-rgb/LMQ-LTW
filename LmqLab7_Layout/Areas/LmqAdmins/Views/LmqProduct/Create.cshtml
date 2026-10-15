@@ -1,0 +1,131 @@
+@model LmqLab7_Layout.Areas.LmqAdmins.Models.Product
+
+@{
+    ViewData["Title"] = "Thêm sản phẩm";
+}
+
+<div class="container-fluid">
+    <div class="card card-primary">
+        <div class="card-header">
+            <h3 class="card-title">Thêm sản phẩm</h3>
+        </div>
+
+        <form asp-area="LmqAdmins"
+              asp-controller="LmqProduct"
+              asp-action="Create"
+              method="post">
+
+            @Html.AntiForgeryToken()
+
+            <div class="card-body">
+
+                <div asp-validation-summary="All"
+                     class="text-danger mb-3"></div>
+
+                @if (ViewBag.Errors != null)
+                {
+                    <div class="alert alert-danger">
+                        <strong>Vui lòng kiểm tra dữ liệu:</strong>
+                        <ul>
+                            @foreach (string error in ViewBag.Errors)
+                            {
+                                <li>@error</li>
+                            }
+                        </ul>
+                    </div>
+                }
+
+                <div class="form-group mb-3">
+                    <label asp-for="Name">Tên sản phẩm</label>
+                    <input asp-for="Name"
+                           class="form-control"
+                           placeholder="Nhập tên sản phẩm" />
+                    <span asp-validation-for="Name"
+                          class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="CategoryId">Danh mục</label>
+                    <select asp-for="CategoryId"
+                            asp-items="ViewBag.CategoryId"
+                            class="form-control">
+                        <option value="">-- Chọn danh mục --</option>
+                    </select>
+                    <span asp-validation-for="CategoryId"
+                          class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Price">Giá gốc</label>
+                    <input asp-for="Price"
+                           type="number"
+                           min="0"
+                           step="0.01"
+                           class="form-control"
+                           value="@(Model == null ? "" : Model.Price.ToString(
+                               System.Globalization.CultureInfo.InvariantCulture))" />
+                    <span asp-validation-for="Price"
+                          class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="SalePrice">Giá khuyến mãi</label>
+                    <input asp-for="SalePrice"
+                           type="number"
+                           min="0"
+                           step="0.01"
+                           class="form-control" />
+                    <span asp-validation-for="SalePrice"
+                          class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Image">Đường dẫn hình ảnh</label>
+                    <input asp-for="Image"
+                           class="form-control"
+                           placeholder="/images/product.jpg" />
+                    <span asp-validation-for="Image"
+                          class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Description">Mô tả</label>
+                    <textarea asp-for="Description"
+                              class="form-control"
+                              rows="4"
+                              placeholder="Nhập mô tả sản phẩm"></textarea>
+                    <span asp-validation-for="Description"
+                          class="text-danger"></span>
+                </div>
+
+                <div class="form-check mb-3">
+                    <input asp-for="Status"
+                           class="form-check-input" />
+                    <label asp-for="Status"
+                           class="form-check-label">
+                        Đang hoạt động
+                    </label>
+                </div>
+
+            </div>
+
+            <div class="card-footer">
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-save"></i> Lưu sản phẩm
+                </button>
+
+                <a asp-area="LmqAdmins"
+                   asp-controller="LmqProduct"
+                   asp-action="Index"
+                   class="btn btn-secondary">
+                    Quay lại
+                </a>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

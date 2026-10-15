@@ -1,0 +1,47 @@
+@model LmqLab7_Layout.Areas.LmqAdmins.Models.Banner
+
+@{
+    ViewData["Title"] = "Xóa Banner";
+}
+
+<div class="container-fluid">
+    <div class="card card-danger">
+        <div class="card-header">
+            <h3 class="card-title">Xác nhận xóa Banner</h3>
+        </div>
+
+        <div class="card-body">
+            <p>Bạn có chắc chắn muốn xóa Banner này không?</p>
+
+            <h4>@Model.Name</h4>
+
+            @if (!string.IsNullOrWhiteSpace(Model.Image))
+            {
+                <img src="@Url.Content(Model.Image)"
+                     alt="@Model.Name"
+                     style="max-width:300px;max-height:180px;object-fit:contain" />
+            }
+
+            <p class="mt-3">
+                <strong>Độ ưu tiên:</strong> @Model.Priority
+            </p>
+
+            <p>
+                <strong>Trạng thái:</strong>
+                @(Model.Status ? "Đang hoạt động" : "Ngừng hoạt động")
+            </p>
+
+            <p><strong>Mô tả:</strong> @Model.Description</p>
+        </div>
+
+        <div class="card-footer">
+            <form asp-action="Delete" asp-route-id="@Model.Id" method="post">
+                @Html.AntiForgeryToken()
+                <button type="submit" class="btn btn-danger">
+                    Xác nhận xóa
+                </button>
+                <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+            </form>
+        </div>
+    </div>
+</div>

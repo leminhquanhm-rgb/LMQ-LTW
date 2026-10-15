@@ -1,0 +1,106 @@
+@model IEnumerable<LmqLab7_Layout.Areas.LmqAdmins.Models.Product>
+
+@{
+    ViewData["Title"] = "Quản lý sản phẩm";
+}
+
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">Danh sách sản phẩm</h3>
+            <div class="card-tools">
+                <a asp-action="Create" class="btn btn-primary btn-sm">
+                    <i class="fas fa-plus"></i> Thêm sản phẩm
+                </a>
+            </div>
+        </div>
+
+        <div class="card-body">
+            @if (TempData["Success"] != null)
+            {
+                <div class="alert alert-success">@TempData["Success"]</div>
+            }
+
+            <div class="table-responsive">
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Tên sản phẩm</th>
+                            <th>Danh mục</th>
+                            <th>Giá gốc</th>
+                            <th>Giá khuyến mãi</th>
+                            <th>Trạng thái</th>
+                            <th>Ngày tạo</th>
+                            <th>Ảnh</th>
+                            <th>Chức năng</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.Name</td>
+                                <td>@item.Category.Name</td>
+                                <td>@item.Price.ToString("N0") đ</td>
+                                <td>
+                                    @(item.SalePrice.HasValue
+                                        ? item.SalePrice.Value.ToString("N0") + " đ"
+                                        : "—")
+                                </td>
+                                <td>
+                                    @if (item.Status)
+                                    {
+                                        <span class="badge badge-success">Hoạt động</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge badge-secondary">Ngừng hoạt động</span>
+                                    }
+                                </td>
+                                <td>@item.CreatedDate.ToString("dd/MM/yyyy")</td>
+                                <td>
+                                    @if (!string.IsNullOrWhiteSpace(item.Image))
+                                    {
+                                        <img src="@item.Image" alt="@item.Name"
+                                             style="width:65px;height:50px;object-fit:cover" />
+                                    }
+                                </td>
+
+
+                                <td class="text-nowrap">
+                                    <a asp-area="LmqAdmins"
+                                       asp-controller="LmqProduct"
+                                       asp-action="Edit"
+                                       asp-route-id="@item.Id"
+                                       class="btn btn-warning btn-sm">
+                                        Sửa
+                                    </a>
+
+                                    <a asp-area="LmqAdmins"
+                                       asp-controller="LmqProduct"
+                                       asp-action="Delete"
+                                       asp-route-id="@item.Id"
+                                       class="btn btn-danger btn-sm">
+                                        Xóa
+                                    </a>
+
+                                    <a asp-area="LmqAdmins"
+                                       asp-controller="LmqProduct"
+                                       asp-action="Details"
+                                       asp-route-id="@item.Id"
+                                       class="btn btn-info btn-sm">
+                                        Chi tiết
+                                    </a>
+                                </td>
+
+                                
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

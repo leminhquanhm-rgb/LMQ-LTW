@@ -1,0 +1,55 @@
+@model LmqLab7_Layout.Areas.LmqAdmins.Models.Category
+
+@{
+    ViewData["Title"] = "Xóa danh mục";
+}
+
+<div class="container-fluid">
+    <div class="card card-danger">
+        <div class="card-header">
+            <h3 class="card-title">Xác nhận xóa danh mục</h3>
+        </div>
+
+        <div class="card-body">
+            <div class="alert alert-warning">
+                <i class="fas fa-exclamation-triangle"></i>
+                Bạn có chắc chắn muốn xóa danh mục này không?
+            </div>
+
+            <dl class="row">
+                <dt class="col-sm-3">Mã danh mục</dt>
+                <dd class="col-sm-9">@Model.Id</dd>
+
+                <dt class="col-sm-3">Tên danh mục</dt>
+                <dd class="col-sm-9">@Model.Name</dd>
+
+                <dt class="col-sm-3">Trạng thái</dt>
+                <dd class="col-sm-9">
+                    @(Model.Status ? "Đang hoạt động" : "Ngừng hoạt động")
+                </dd>
+
+                <dt class="col-sm-3">Ngày tạo</dt>
+                <dd class="col-sm-9">
+                    @Model.CreatedDate.ToString("dd/MM/yyyy HH:mm")
+                </dd>
+
+                <dt class="col-sm-3">Mô tả</dt>
+                <dd class="col-sm-9">@Model.Description</dd>
+            </dl>
+        </div>
+
+        <div class="card-footer">
+            <form asp-action="Delete" asp-route-id="@Model.Id" method="post">
+                @Html.AntiForgeryToken()
+                <input type="hidden" name="id" value="@Model.Id" />
+
+                <button type="submit" class="btn btn-danger"
+                        onclick="return confirm('Bạn chắc chắn muốn xóa danh mục @Model.Name?');">
+                    <i class="fas fa-trash"></i> Xác nhận xóa
+                </button>
+
+                <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+            </form>
+        </div>
+    </div>
+</div>

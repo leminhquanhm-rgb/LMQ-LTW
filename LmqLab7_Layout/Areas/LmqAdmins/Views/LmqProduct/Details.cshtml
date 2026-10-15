@@ -1,0 +1,114 @@
+@model LmqLab7_Layout.Areas.LmqAdmins.Models.Product
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<div class="container-fluid">
+    <div class="card card-primary">
+        <div class="card-header">
+            <h3 class="card-title">Chi tiết sản phẩm</h3>
+        </div>
+
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-4 text-center mb-3">
+                    @if (!string.IsNullOrWhiteSpace(Model.Image))
+                    {
+                        <img src="@Url.Content(Model.Image)"
+                             alt="@Model.Name"
+                             class="img-fluid rounded"
+                             style="max-height:350px; object-fit:contain;" />
+                    }
+                    else
+                    {
+                        <div class="border rounded p-5 text-muted">
+                            Chưa có hình ảnh sản phẩm
+                        </div>
+                    }
+                </div>
+
+                <div class="col-md-8">
+                    <table class="table table-bordered">
+                        <tr>
+                            <th style="width:35%">Mã sản phẩm</th>
+                            <td>@Model.Id</td>
+                        </tr>
+                        <tr>
+                            <th>Tên sản phẩm</th>
+                            <td>@Model.Name</td>
+                        </tr>
+                        <tr>
+                            <th>Danh mục</th>
+                            <td>@(Model.Category?.Name ?? "Chưa có danh mục")</td>
+                        </tr>
+                        <tr>
+                            <th>Giá gốc</th>
+                            <td>@Model.Price.ToString("N0") VNĐ</td>
+                        </tr>
+                        <tr>
+                            <th>Giá khuyến mãi</th>
+                            <td>
+                                @if (Model.SalePrice.HasValue)
+                                {
+                                    @Model.SalePrice.Value.ToString("N0") @:VNĐ
+                                }
+                                else
+                                {
+                                    <span>Không có</span>
+                                }
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Trạng thái</th>
+                            <td>
+                                @if (Model.Status)
+                                {
+                                    <span class="badge badge-success">Đang hoạt động</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-secondary">Ngừng hoạt động</span>
+                                }
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Ngày tạo</th>
+                            <td>@Model.CreatedDate.ToString("dd/MM/yyyy HH:mm")</td>
+                        </tr>
+                        <tr>
+                            <th>Mô tả</th>
+                            <td>
+                                @if (!string.IsNullOrWhiteSpace(Model.Description))
+                                {
+                                    @Model.Description
+                                }
+                                else
+                                {
+                                    <span class="text-muted">Chưa có mô tả</span>
+                                }
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="card-footer">
+            <a asp-area="LmqAdmins"
+               asp-controller="LmqProduct"
+               asp-action="Edit"
+               asp-route-id="@Model.Id"
+               class="btn btn-warning">
+                Sửa sản phẩm
+            </a>
+
+            <a asp-area="LmqAdmins"
+               asp-controller="LmqProduct"
+               asp-action="Index"
+               class="btn btn-secondary">
+                Quay lại danh sách
+            </a>
+        </div>
+    </div>
+</div>

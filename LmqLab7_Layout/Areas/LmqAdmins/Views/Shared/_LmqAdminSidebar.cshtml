@@ -1,0 +1,82 @@
+﻿
+<aside class="main-sidebar sidebar-dark-primary elevation-4">
+
+    <a asp-area="LmqAdmins"
+       asp-controller="LmqDashboard"
+       asp-action="Index"
+       class="brand-link">
+        <span class="brand-text font-weight-light ml-3">
+            Lmq Admin
+        </span>
+    </a>
+
+    <div class="sidebar">
+        <nav class="mt-2">
+            <ul class="nav nav-pills nav-sidebar flex-column"
+                data-widget="treeview"
+                role="menu">
+
+                <li class="nav-item">
+                    <a asp-area="LmqAdmins"
+                       asp-controller="LmqDashboard"
+                       asp-action="Index"
+                       class="nav-link">
+                        <i class="nav-icon fas fa-tachometer-alt"></i>
+                        <p>Dashboard</p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a asp-area=""
+                       asp-controller="Home"
+                       asp-action="Index"
+                       class="nav-link">
+                        <i class="nav-icon fas fa-home"></i>
+                        <p>Trang chủ</p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a asp-area="LmqAdmins"
+                       asp-controller="LmqCategory"
+                       asp-action="Index"
+                       class="nav-link">
+                        <i class="nav-icon fas fa-list"></i>
+                        <p>Danh mục</p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a asp-area="LmqAdmins"
+                       asp-controller="LmqProduct"
+                       asp-action="Index"
+                       class="nav-link">
+                        <i class="nav-icon fas fa-box"></i>
+                        <p>Sản phẩm</p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a asp-area="LmqAdmins"
+                       asp-controller="LmqBlog"
+                       asp-action="Index"
+                       class="nav-link">
+                        <i class="nav-icon fas fa-newspaper"></i>
+                        <p>Blog</p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a asp-area="LmqAdmins"
+                       asp-controller="LmqBanner"
+                       asp-action="Index"
+                       class="nav-link">
+                        <i class="nav-icon fas fa-images"></i>
+                        <p>Banner</p>
+                    </a>
+                </li>
+
+            </ul>
+        </nav>
+    </div>
+</aside>

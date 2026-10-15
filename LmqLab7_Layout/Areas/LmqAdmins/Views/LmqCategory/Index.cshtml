@@ -1,0 +1,82 @@
+@model IEnumerable<LmqLab7_Layout.Areas.LmqAdmins.Models.Category>
+
+@{
+    ViewData["Title"] = "Quản lý danh mục";
+}
+
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">Danh sách danh mục</h3>
+            <div class="card-tools">
+                <a asp-area="LmqAdmins"
+                   asp-controller="LmqCategory"
+                   asp-action="Create"
+                   class="btn btn-primary btn-sm">
+                    <i class="fas fa-plus"></i> Thêm danh mục
+                </a>
+            </div>
+        </div>
+
+        <div class="card-body">
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-danger">
+                    @TempData["Error"]
+                </div>
+            }
+
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Tên danh mục</th>
+                        <th>Trạng thái</th>
+                        <th>Ngày tạo</th>
+                        <th>Hình ảnh</th>
+                        <th>Mô tả</th>
+                        <th>Chức năng</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.Name</td>
+                            <td>
+                                @if (item.Status)
+                                {
+                                    <span class="badge badge-success">Hoạt động</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-secondary">Ngừng hoạt động</span>
+                                }
+                            </td>
+                            <td>@item.CreatedDate.ToString("dd/MM/yyyy HH:mm")</td>
+                            <td>
+                                @if (!string.IsNullOrWhiteSpace(item.Image))
+                                {
+                                    <img src="@item.Image"
+                                         alt="@item.Name"
+                                         style="width:70px;height:50px;object-fit:cover" />
+                                }
+                            </td>
+                            <td>@item.Description</td>
+                            <td>
+                                <a asp-action="Edit"
+                                   asp-route-id="@item.Id"
+                                   class="btn btn-warning btn-sm">Sửa</a>
+
+                                <a asp-action="Delete"
+                                   asp-route-id="@item.Id"
+                                   class="btn btn-danger btn-sm">Xóa</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

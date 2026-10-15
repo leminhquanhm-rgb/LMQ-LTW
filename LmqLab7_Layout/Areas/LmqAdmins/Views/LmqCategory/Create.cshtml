@@ -1,0 +1,60 @@
+@model LmqLab7_Layout.Areas.LmqAdmins.Models.Category
+
+@{
+    ViewData["Title"] = "Thêm danh mục";
+}
+
+<div class="container-fluid">
+    <div class="card card-primary">
+        <div class="card-header">
+            <h3 class="card-title">Thêm danh mục</h3>
+        </div>
+
+        <form asp-action="Create" method="post">
+            @Html.AntiForgeryToken()
+
+            <div class="card-body">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Name">Tên danh mục</label>
+                    <input asp-for="Name" class="form-control"
+                           placeholder="Nhập tên danh mục" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Image">Đường dẫn hình ảnh</label>
+                    <input asp-for="Image" class="form-control"
+                           placeholder="Ví dụ: /images/category.jpg" />
+                    <span asp-validation-for="Image" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Description">Mô tả</label>
+                    <textarea asp-for="Description" class="form-control"
+                              rows="4" placeholder="Nhập mô tả"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-check">
+                    <input asp-for="Status" class="form-check-input" />
+                    <label asp-for="Status" class="form-check-label">
+                        Đang hoạt động
+                    </label>
+                </div>
+            </div>
+
+            <div class="card-footer">
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-save"></i> Lưu
+                </button>
+                <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

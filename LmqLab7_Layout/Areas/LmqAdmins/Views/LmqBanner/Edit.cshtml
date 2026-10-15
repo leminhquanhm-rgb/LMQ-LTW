@@ -1,0 +1,65 @@
+@model LmqLab7_Layout.Areas.LmqAdmins.Models.Banner
+
+@{
+    ViewData["Title"] = "Sửa Banner";
+}
+
+<div class="container-fluid">
+    <div class="card card-warning">
+        <div class="card-header">
+            <h3 class="card-title">Sửa Banner</h3>
+        </div>
+
+        <form asp-action="Edit" asp-route-id="@Model.Id" method="post">
+            @Html.AntiForgeryToken()
+            <input type="hidden" asp-for="Id" />
+
+            <div class="card-body">
+                <div asp-validation-summary="All" class="text-danger"></div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Name">Tên Banner</label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Priority">Độ ưu tiên</label>
+                    <input asp-for="Priority" type="number" min="0"
+                           class="form-control" />
+                    <span asp-validation-for="Priority" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Image">Đường dẫn hình ảnh</label>
+                    <input asp-for="Image" class="form-control"
+                           placeholder="/images/banner.jpg" />
+                    <span asp-validation-for="Image" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Description">Mô tả</label>
+                    <textarea asp-for="Description" class="form-control"
+                              rows="4"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-check mb-3">
+                    <input asp-for="Status" class="form-check-input" />
+                    <label asp-for="Status" class="form-check-label">
+                        Đang hoạt động
+                    </label>
+                </div>
+            </div>
+
+            <div class="card-footer">
+                <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+                <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

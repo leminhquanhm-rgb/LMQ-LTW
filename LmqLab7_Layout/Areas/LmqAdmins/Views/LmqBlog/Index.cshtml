@@ -1,0 +1,92 @@
+@model IEnumerable<LmqLab7_Layout.Areas.LmqAdmins.Models.Blog>
+
+@{
+    ViewData["Title"] = "Quản lý bài viết";
+}
+
+<div class="container-fluid">
+    <h2 class="mb-3">Quản lý bài viết</h2>
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger">@TempData["Error"]</div>
+    }
+
+    <p>
+        <a asp-area="LmqAdmins"
+           asp-controller="LmqBlog"
+           asp-action="Create"
+           class="btn btn-primary">
+            Thêm bài viết
+        </a>
+    </p>
+
+    <div class="card">
+        <div class="card-body table-responsive">
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Tên bài viết</th>
+                        <th>Trạng thái</th>
+                        <th>Ngày tạo</th>
+                        <th>Ảnh</th>
+                        <th>Mô tả</th>
+                        <th>Chức năng</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.Name</td>
+                            <td>
+                                @if (item.Status)
+                                {
+                                    <span class="badge badge-success">Hoạt động</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-secondary">Ngừng hoạt động</span>
+                                }
+                            </td>
+                            <td>@item.CreatedDate.ToString("dd/MM/yyyy")</td>
+                            <td>
+                                @if (!string.IsNullOrWhiteSpace(item.Image))
+                                {
+                                    <img src="@Url.Content(item.Image)"
+                                         alt="@item.Name"
+                                         style="width:80px;height:60px;object-fit:cover" />
+                                }
+                                else
+                                {
+                                    <span>Chưa có ảnh</span>
+                                }
+                            </td>
+                            <td>@item.Description</td>
+                            <td class="text-nowrap">
+                                <a asp-action="Edit"
+                                   asp-route-id="@item.Id"
+                                   class="btn btn-warning btn-sm">Sửa</a>
+
+                                <a asp-action="Delete"
+                                   asp-route-id="@item.Id"
+                                   class="btn btn-danger btn-sm">Xóa</a>
+
+                                <a asp-action="Details"
+                                   asp-route-id="@item.Id"
+                                   class="btn btn-info btn-sm">Chi tiết</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,83 @@
+@model LmqLab7_Layout.Areas.LmqAdmins.Models.Product
+
+@{
+    ViewData["Title"] = "Sửa sản phẩm";
+}
+
+<div class="container-fluid">
+    <div class="card card-warning">
+        <div class="card-header">
+            <h3 class="card-title">Sửa sản phẩm</h3>
+        </div>
+
+        <form asp-action="Edit" asp-route-id="@Model.Id" method="post">
+            @Html.AntiForgeryToken()
+            <input type="hidden" asp-for="Id" />
+
+            <div class="card-body">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Name">Tên sản phẩm</label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="CategoryId">Danh mục</label>
+                    <select asp-for="CategoryId" asp-items="ViewBag.CategoryId"
+                            class="form-control">
+                        <option value="">-- Chọn danh mục --</option>
+                    </select>
+                    <span asp-validation-for="CategoryId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Price">Giá gốc</label>
+                    <input asp-for="Price" type="number" min="0" step="0.01"
+                           class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="SalePrice">Giá khuyến mãi</label>
+                    <input asp-for="SalePrice" type="number" min="0" step="0.01"
+                           class="form-control" />
+                    <span asp-validation-for="SalePrice" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Image">Đường dẫn hình ảnh</label>
+                    <input asp-for="Image" class="form-control" />
+                    <span asp-validation-for="Image" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Description">Mô tả</label>
+                    <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-check">
+                    <input asp-for="Status" class="form-check-input" />
+                    <label asp-for="Status" class="form-check-label">Đang hoạt động</label>
+                </div>
+
+                <div class="form-group mt-3">
+                    <label>Ngày tạo</label>
+                    <input value="@Model.CreatedDate.ToString("dd/MM/yyyy HH:mm")"
+                           class="form-control" readonly />
+                </div>
+            </div>
+
+            <div class="card-footer">
+                <button type="submit" class="btn btn-warning">Cập nhật</button>
+                <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
