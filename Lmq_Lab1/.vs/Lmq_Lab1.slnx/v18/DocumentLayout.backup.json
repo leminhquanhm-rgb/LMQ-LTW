@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4B6BDBB-B75A-4D58-9415-5094274DEBCD}|Lmq_Lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lab1\\views\\lmqstudent\\lmqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4B6BDBB-B75A-4D58-9415-5094274DEBCD}|Lmq_Lab1.csproj|solutionrelative:views\\lmqstudent\\lmqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08EB8295-0203-E209-2E07-C246E3DA83DF}|Lmq_Lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lab1\\views\\lmqstudent\\lmqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08EB8295-0203-E209-2E07-C246E3DA83DF}|Lmq_Lab1.csproj|solutionrelative:views\\lmqstudent\\lmqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B6BDBB-B75A-4D58-9415-5094274DEBCD}|Lmq_Lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lab1\\views\\lmqstudent\\lmqindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4B6BDBB-B75A-4D58-9415-5094274DEBCD}|Lmq_Lab1.csproj|solutionrelative:views\\lmqstudent\\lmqindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08EB8295-0203-E209-2E07-C246E3DA83DF}|Lmq_Lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lab1\\views\\lmqstudent\\lmqindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08EB8295-0203-E209-2E07-C246E3DA83DF}|Lmq_Lab1.csproj|solutionrelative:views\\lmqstudent\\lmqindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B6BDBB-B75A-4D58-9415-5094274DEBCD}|Lmq_Lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lab1\\controllers\\lmqstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4B6BDBB-B75A-4D58-9415-5094274DEBCD}|Lmq_Lab1.csproj|solutionrelative:controllers\\lmqstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08EB8295-0203-E209-2E07-C246E3DA83DF}|Lmq_Lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lab1\\controllers\\lmqstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EB8295-0203-E209-2E07-C246E3DA83DF}|Lmq_Lab1.csproj|solutionrelative:controllers\\lmqstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B6BDBB-B75A-4D58-9415-5094274DEBCD}|Lmq_Lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lab1\\models\\lmqstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4B6BDBB-B75A-4D58-9415-5094274DEBCD}|Lmq_Lab1.csproj|solutionrelative:models\\lmqstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08EB8295-0203-E209-2E07-C246E3DA83DF}|Lmq_Lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lab1\\models\\lmqstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EB8295-0203-E209-2E07-C246E3DA83DF}|Lmq_Lab1.csproj|solutionrelative:models\\lmqstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B6BDBB-B75A-4D58-9415-5094274DEBCD}|Lmq_Lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lab1\\models\\lmqbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4B6BDBB-B75A-4D58-9415-5094274DEBCD}|Lmq_Lab1.csproj|solutionrelative:models\\lmqbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08EB8295-0203-E209-2E07-C246E3DA83DF}|Lmq_Lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lab1\\models\\lmqbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EB8295-0203-E209-2E07-C246E3DA83DF}|Lmq_Lab1.csproj|solutionrelative:models\\lmqbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B6BDBB-B75A-4D58-9415-5094274DEBCD}|Lmq_Lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lab1\\models\\lmqgender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4B6BDBB-B75A-4D58-9415-5094274DEBCD}|Lmq_Lab1.csproj|solutionrelative:models\\lmqgender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08EB8295-0203-E209-2E07-C246E3DA83DF}|Lmq_Lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lab1\\models\\lmqgender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EB8295-0203-E209-2E07-C246E3DA83DF}|Lmq_Lab1.csproj|solutionrelative:models\\lmqgender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Views\\LmqStudent\\lmqCreate.cshtml",
               "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lmq_Lab1\\Views\\LmqStudent\\lmqCreate.cshtml",
               "RelativeToolTip": "Views\\LmqStudent\\lmqCreate.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwBwAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-23T09:57:39.355Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Views\\LmqStudent\\lmqIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-23T09:35:55.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T09:35:55.101Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Controllers\\LmqStudentController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAkwCoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T09:25:02.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T09:25:02.483Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Models\\LmqStudent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T09:22:25.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T09:22:25.225Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Models\\LmqBranch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T09:22:07.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T09:22:07.026Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Models\\LmqGender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T09:21:48.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T09:21:48.437Z"
             }
           ]
         }

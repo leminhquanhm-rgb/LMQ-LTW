@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\lmq_lesson10_lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7FA14F-3C25-4C11-B97C-F34284EE4D78}|lmq_lesson10_lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lesson10_lab1\\views\\shared\\_lmqmylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF7FA14F-3C25-4C11-B97C-F34284EE4D78}|lmq_lesson10_lab1.csproj|solutionrelative:views\\shared\\_lmqmylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7FA14F-3C25-4C11-B97C-F34284EE4D78}|lmq_lesson10_lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lesson10_lab1\\views\\lmqstudent\\lmqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF7FA14F-3C25-4C11-B97C-F34284EE4D78}|lmq_lesson10_lab1.csproj|solutionrelative:views\\lmqstudent\\lmqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LmqMyLayout.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\lmq_lesson10_lab1\\Views\\Shared\\_LmqMyLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LmqMyLayout.cshtml",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\lmq_lesson10_lab1\\Views\\Shared\\_LmqMyLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LmqMyLayout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T02:18:36.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LmqCreate.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\lmq_lesson10_lab1\\Views\\LmqStudent\\LmqCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\LmqStudent\\LmqCreate.cshtml",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\lmq_lesson10_lab1\\Views\\LmqStudent\\LmqCreate.cshtml",
+              "RelativeToolTip": "Views\\LmqStudent\\LmqCreate.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T02:15:29.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

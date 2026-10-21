@@ -1,0 +1,37 @@
+﻿@model IEnumerable<lmq_lesson10_lab1.Models.LmqMenuItem>
+
+<aside class="main-sidebar sidebar-dark-primary elevation-4">
+    <!-- Brand Logo -->
+    <a href="#" class="brand-link bg-dark text-center">
+        <span class="brand-text font-weight-bold">Management System</span>
+    </a>
+
+    <!-- Sidebar Menu -->
+    <div class="sidebar">
+        <nav class="mt-2">
+            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu">
+                
+                <div class="sb-sidenav-menu-heading text-muted px-3 py-2" style="font-size: 0.75rem;">Core</div>
+                <li class="nav-item">
+                    <a href="/Admin/Dashboard" class="nav-link">
+                        <i class="nav-icon fas fa-tachometer-alt"></i>
+                        <p>Dashboard</p>
+                    </a>
+                </li>
+
+                <div class="sb-sidenav-menu-heading text-muted px-3 py-2 mt-2" style="font-size: 0.75rem;">Addons</div>
+                
+                @foreach (var i in Model)
+                {
+                    <li class="nav-item">
+                        <a href="@i.Link" class="nav-link">
+                            <i class="nav-icon @i.Icon"></i>
+                            <p>@i.Name</p>
+                        </a>
+                    </li>
+                }
+
+            </ul>
+        </nav>
+    </div>
+</aside>
