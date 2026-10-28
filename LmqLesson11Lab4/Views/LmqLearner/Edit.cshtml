@@ -1,0 +1,77 @@
+﻿@model LmqLesson11Lab4.Models.LmqLearner
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "_Layout";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Sửa thông tin sinh viên</h2>
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <form asp-controller="LmqLearner"
+          asp-action="Edit"
+          asp-route-id="@Model.LearnerID"
+          method="post">
+
+        <input type="hidden" asp-for="LearnerID" />
+
+        <div class="mb-3">
+            <label asp-for="FirstMidName" class="form-label">
+                Tên
+            </label>
+
+            <input asp-for="FirstMidName" class="form-control" />
+
+            <span asp-validation-for="FirstMidName"
+                  class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="LastName" class="form-label">
+                Họ
+            </label>
+
+            <input asp-for="LastName" class="form-control" />
+
+            <span asp-validation-for="LastName"
+                  class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="MajorID" class="form-label">
+                Chuyên ngành
+            </label>
+
+            <select asp-for="MajorID"
+                    asp-items="ViewBag.MajorID"
+                    class="form-select">
+            </select>
+
+            <span asp-validation-for="MajorID"
+                  class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="EnrollmentDate" class="form-label">
+                Ngày nhập học
+            </label>
+
+            <input asp-for="EnrollmentDate"
+                   type="date"
+                   class="form-control" />
+
+            <span asp-validation-for="EnrollmentDate"
+                  class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">
+            Edit
+        </button>
+
+        <a asp-action="Index" class="btn btn-secondary">
+            Quay lại
+        </a>
+    </form>
+</div>

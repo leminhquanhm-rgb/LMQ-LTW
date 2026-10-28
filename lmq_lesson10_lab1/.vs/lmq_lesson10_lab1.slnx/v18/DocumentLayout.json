@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\lmq_lesson10_lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF7FA14F-3C25-4C11-B97C-F34284EE4D78}|lmq_lesson10_lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lesson10_lab1\\views\\shared\\_lmqmylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF7FA14F-3C25-4C11-B97C-F34284EE4D78}|lmq_lesson10_lab1.csproj|solutionrelative:views\\shared\\_lmqmylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DC43D911-1747-E490-EDC4-FE6A220FAB31}|lmq_lesson10_lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lesson10_lab1\\views\\shared\\_lmqmylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC43D911-1747-E490-EDC4-FE6A220FAB31}|lmq_lesson10_lab1.csproj|solutionrelative:views\\shared\\_lmqmylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF7FA14F-3C25-4C11-B97C-F34284EE4D78}|lmq_lesson10_lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lesson10_lab1\\views\\lmqstudent\\lmqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF7FA14F-3C25-4C11-B97C-F34284EE4D78}|lmq_lesson10_lab1.csproj|solutionrelative:views\\lmqstudent\\lmqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DC43D911-1747-E490-EDC4-FE6A220FAB31}|lmq_lesson10_lab1.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lmq_lesson10_lab1\\views\\lmqstudent\\lmqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC43D911-1747-E490-EDC4-FE6A220FAB31}|lmq_lesson10_lab1.csproj|solutionrelative:views\\lmqstudent\\lmqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Views\\LmqStudent\\LmqCreate.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-21T02:15:29.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T02:15:29.113Z"
             }
           ]
         }

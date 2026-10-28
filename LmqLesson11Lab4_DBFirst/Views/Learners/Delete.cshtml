@@ -1,0 +1,36 @@
+@model LmqLesson11Lab4_DBFirst.Models.Learner
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Xóa sinh viên</h1>
+
+<h3>Bạn có chắc chắn muốn xóa sinh viên này không?</h3>
+
+<div>
+    <h4>Learner</h4>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-3">Họ</dt>
+        <dd class="col-sm-9">@Model.LastName</dd>
+
+        <dt class="col-sm-3">Tên đệm và tên</dt>
+        <dd class="col-sm-9">@Model.FirstMidName</dd>
+
+        <dt class="col-sm-3">Ngày nhập học</dt>
+        <dd class="col-sm-9">@Model.EnrollmentDate.ToShortDateString()</dd>
+
+        <dt class="col-sm-3">Chuyên ngành</dt>
+        <dd class="col-sm-9">@Model.Major?.MajorName</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="LearnerId" />
+
+        <input type="submit" value="Delete" class="btn btn-danger" />
+
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </form>
+</div>

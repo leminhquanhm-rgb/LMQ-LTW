@@ -1,0 +1,82 @@
+﻿```cshtml
+@model LmqLesson11Lab4.Models.LmqLearner
+
+@{
+    ViewData["Title"] = "Chi tiết sinh viên";
+    Layout = "_Layout";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Chi tiết sinh viên</h2>
+
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            Thông tin sinh viên
+        </div>
+
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">Mã sinh viên</dt>
+                <dd class="col-sm-9">@Model.LearnerID</dd>
+
+                <dt class="col-sm-3">Tên</dt>
+                <dd class="col-sm-9">@Model.FirstMidName</dd>
+
+                <dt class="col-sm-3">Họ</dt>
+                <dd class="col-sm-9">@Model.LastName</dd>
+
+                <dt class="col-sm-3">Chuyên ngành</dt>
+                <dd class="col-sm-9">@Model.Major?.MajorName</dd>
+
+                <dt class="col-sm-3">Ngày nhập học</dt>
+                <dd class="col-sm-9">
+                    @Model.EnrollmentDate.ToString("dd/MM/yyyy")
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <h4 class="mt-4">Danh sách môn học đã đăng ký</h4>
+
+    <table class="table table-bordered table-striped mt-3">
+        <thead class="table-dark">
+            <tr>
+                <th>Mã môn học</th>
+                <th>Tên môn học</th>
+                <th>Số tín chỉ</th>
+                <th>Điểm</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @if (Model.Enrollments.Any())
+            {
+                @foreach (var e in Model.Enrollments)
+                {
+                    <tr>
+                        <td>@e.CourseID</td>
+                        <td>@e.Course?.Title</td>
+                        <td>@e.Course?.Credits</td>
+                        <td>@e.Grade</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="4" class="text-center">
+                        Sinh viên chưa đăng ký môn học nào.
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-action="Edit"
+       asp-route-id="@Model.LearnerID"
+       class="btn btn-warning">Edit</a>
+
+    <a asp-action="Index"
+       class="btn btn-secondary">Back to List</a>
+</div>
+```
