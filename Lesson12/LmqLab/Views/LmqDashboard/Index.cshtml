@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<p class="text-muted">
+    Chào mừng bạn đến với Hệ thống Quản lý Sinh viên!
+</p>
+
+<div class="row">
+
+    <div class="col-md-4 mb-3">
+        <div class="card border-primary shadow-sm">
+            <div class="card-body">
+                <h5 class="text-primary">Tổng số người học</h5>
+                <h2>@ViewBag.TotalLearners</h2>
+                <a asp-controller="LmqLearner"
+                   asp-action="Index">
+                    Xem sinh viên
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 mb-3">
+        <div class="card border-success shadow-sm">
+            <div class="card-body">
+                <h5 class="text-success">Tổng số chuyên ngày </h5>
+                <h2>@ViewBag.TotalMajors</h2>
+                <span>Chuyên ngành</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 mb-3">
+        <div class="card border-warning shadow-sm">
+            <div class="card-body">
+                <h5 class="text-warning">Tổng số khóa học</h5>
+                <h2>@ViewBag.TotalCourses</h2>
+                <span>Các khóa học</span>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="card shadow-sm mt-3">
+    <div class="card-header">
+        <strong>Quản lý sinh viên</strong>
+    </div>
+
+    <div class="card-body">
+        <p>
+            Quản lý thông tin sinh viên, chuyên ngành và các khóa học.
+        </p>
+
+        <a asp-controller="LmqLearner"
+           asp-action="Index"
+           class="btn btn-primary">
+            Quản lý sinh viên
+        </a>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+﻿@model IEnumerable<LmqLab.Models.Major>
+
+<ul class="nav" id="majors">
+    @foreach (var m in Model)
+    {
+        <li class="nav-item" id="@m.MajorId">
+            <a href="#" class="nav-link">
+                @m.MajorName
+            </a>
+        </li>
+    }
+</ul>

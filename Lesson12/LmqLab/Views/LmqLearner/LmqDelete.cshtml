@@ -1,0 +1,54 @@
+﻿@model LmqLab.Models.Learner
+
+@{
+    ViewData["Title"] = "Delete Student";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header">
+            <h4>Xóa sinh viên</h4>
+        </div>
+
+        <div class="card-body">
+
+            <h5 class="text-danger">
+                Bạn có chắc chắn muốn xóa sinh viên này không?
+            </h5>
+
+            <hr />
+
+            <dl class="row">
+                <dt class="col-sm-3">Learner ID</dt>
+                <dd class="col-sm-9">@Model.LearnerId</dd>
+
+                <dt class="col-sm-3">Tên</dt>
+                <dd class="col-sm-9">@Model.FirstMidName</dd>
+
+                <dt class="col-sm-3">Họ</dt>
+                <dd class="col-sm-9">@Model.LastName</dd>
+
+                <dt class="col-sm-3">Ngày nhập học</dt>
+                <dd class="col-sm-9">
+                    @Model.EnrollmentDate.ToShortDateString()
+                </dd>
+
+                <dt class="col-sm-3">Ngành học</dt>
+                <dd class="col-sm-9">@Model.Major?.MajorName</dd>
+            </dl>
+
+            <form asp-action="Delete" method="post">
+                <input type="hidden" asp-for="LearnerId" />
+
+                <button type="submit" class="btn btn-danger">
+                    Delete
+                </button>
+
+                <a asp-action="Index" class="btn btn-secondary">
+                    Cancel
+                </a>
+            </form>
+
+        </div>
+    </div>
+</div>

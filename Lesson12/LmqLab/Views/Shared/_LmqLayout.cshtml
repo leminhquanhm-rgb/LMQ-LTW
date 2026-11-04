@@ -1,0 +1,140 @@
+﻿
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>@ViewData["Title"] - LmqLab</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <style>
+        body {
+            margin: 0;
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+
+        .sidebar {
+            width: 220px;
+            min-height: 100vh;
+            background-color: #212529;
+            position: fixed;
+            top: 0;
+            left: 0;
+            padding: 20px 0;
+            color: #adb5bd;
+        }
+
+        .sidebar .brand {
+            color: white;
+            font-size: 22px;
+            font-weight: bold;
+            padding: 10px 20px 25px;
+        }
+
+        .sidebar .menu-title {
+            font-size: 11px;
+            color: #777;
+            padding: 15px 20px 8px;
+        }
+
+        .sidebar a {
+            display: block;
+            color: #adb5bd;
+            text-decoration: none;
+            padding: 12px 20px;
+        }
+
+        .sidebar a:hover {
+            background-color: #343a40;
+            color: white;
+        }
+
+        .sidebar a.active {
+            background-color: #0d6efd;
+            color: white;
+        }
+
+        .main-content {
+            margin-left: 220px;
+            padding: 25px;
+        }
+
+        .topbar {
+            background-color: white;
+            padding: 15px 25px;
+            margin: -25px -25px 25px;
+            border-bottom: 1px solid #dee2e6;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        @@media (max-width: 768px) {
+            .sidebar {
+                width: 160px;
+            }
+
+            .main-content {
+                margin-left: 160px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+
+        <div class="brand">
+            LmqLab
+        </div>
+
+        <div class="menu-title">CORE</div>
+
+        <a asp-controller="LmqDashboard" asp-action="Index">
+            <span>◉</span> Dashboard
+        </a>
+
+        <div class="menu-title">ADDONS</div>
+
+        <a asp-controller="LmqLearner" asp-action="Index">
+            ▣ Students
+        </a>
+
+        <a href="#">
+            ▣ Branches
+        </a>
+
+        <a href="#">
+            ▣ Subjects
+        </a>
+
+        <a href="#">
+            ▣ Courses
+        </a>
+
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+
+        <div class="topbar">
+            <strong>Hệ thống quản lý sinh viên</strong>
+            <span>Admin</span>
+        </div>
+
+        @RenderBody()
+
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>
