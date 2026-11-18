@@ -1,0 +1,11 @@
+﻿@model IEnumerable<LeMinhQuan_241230827.Models.LoaiHang>
+
+@foreach (var item in Model)
+{
+    <li>
+        <a href="/HangHoa/Index?maLoai=@item.MaLoai"
+           class="lmq-loai-link">
+            @item.TenLoai
+        </a>
+    </li>
+}

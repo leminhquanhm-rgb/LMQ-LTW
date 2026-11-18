@@ -1,0 +1,52 @@
+﻿@model IEnumerable<LeMinhQuan_241230827.Models.HangHoa>
+
+<!-- Begin Main -->
+<div class="main">
+    <div class="content">
+        <!-- Begin New Product -->
+        <div class="content_top">
+            <div class="heading">
+                <h3>Lê Minh Quân</h3>
+            </div>
+            <div class="see">
+                <p>
+                    <a asp-controller="HangHoa" asp-action="Create" style="margin-right: 15px; background: none; padding-right: 0; color: #B81D22; font-weight: bold;">+ Thêm Hàng Hóa Mới</a>
+                    <a href="/HangHoa/Index" class="lmq-loai-link">See all Products</a>
+                </p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="section group">
+            @if (Model != null && Model.Any())
+            {
+                foreach (var item in Model)
+                {
+                    <div class="grid_1_of_4 images_1_of_4">
+                        <a href="#">
+                            @if (!string.IsNullOrEmpty(item.Anh))
+                            {
+                                <img src="~/Content/images/@item.Anh" alt="@item.TenHang" style="height: 180px; object-fit: contain;" />
+                            }
+                        </a>
+                        <h2>@item.TenHang</h2>
+                        <div class="price-details">
+                            <div class="price-number">
+                                <p><span class="rupees">@item.Gia</span></p>
+                            </div>
+                            <div class="add-cart">
+                                <h4><a href="#">Add to Cart</a></h4>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <p style="padding: 20px 0; color: #666;">Không có hàng hóa nào phù hợp.</p>
+            }
+        </div>
+        <!-- End New Product -->
+    </div>
+</div>
+<!-- End Main -->

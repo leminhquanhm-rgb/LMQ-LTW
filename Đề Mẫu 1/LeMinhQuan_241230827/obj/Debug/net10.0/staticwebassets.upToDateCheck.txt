@@ -1,0 +1,209 @@
+wwwroot\Content\css\easy-responsive-tabs.css
+wwwroot\Content\css\global.css
+wwwroot\Content\css\slider.css
+wwwroot\Content\css\style.css
+wwwroot\Content\font\Amble-Regular-webfont.ttf
+wwwroot\Content\images\about_img.jpg
+wwwroot\Content\images\arrow-next.png
+wwwroot\Content\images\arrow-prev.png
+wwwroot\Content\images\arrow_up.png
+wwwroot\Content\images\compare.png
+wwwroot\Content\images\delivery-img1.jpg
+wwwroot\Content\images\delivery-img2.jpg
+wwwroot\Content\images\delivery-img3.jpg
+wwwroot\Content\images\dribbble.png
+wwwroot\Content\images\drop_arrow-hover.png
+wwwroot\Content\images\drop_arrow.png
+wwwroot\Content\images\facebook.png
+wwwroot\Content\images\feature-pic1.jpg
+wwwroot\Content\images\feature-pic2.jpg
+wwwroot\Content\images\feature-pic3.jpg
+wwwroot\Content\images\feature-pic4.jpg
+wwwroot\Content\images\Img_1.jpg
+wwwroot\Content\images\Img_2.jpg
+wwwroot\Content\images\Img_3.jpg
+wwwroot\Content\images\Img_4.jpg
+wwwroot\Content\images\Img_5.jpg
+wwwroot\Content\images\Img_6.jpg
+wwwroot\Content\images\linkedin.png
+wwwroot\Content\images\list-img.png
+wwwroot\Content\images\logo.png
+wwwroot\Content\images\new-pic1.jpg
+wwwroot\Content\images\new-pic2.jpg
+wwwroot\Content\images\new-pic3.jpg
+wwwroot\Content\images\new-pic4.jpg
+wwwroot\Content\images\newsimg1.jpg
+wwwroot\Content\images\newsimg2.jpg
+wwwroot\Content\images\newsimg3.jpg
+wwwroot\Content\images\preview.jpg
+wwwroot\Content\images\price-rating.png
+wwwroot\Content\images\productslide-1.jpg
+wwwroot\Content\images\productslide-2.jpg
+wwwroot\Content\images\productslide-3.jpg
+wwwroot\Content\images\productslide-4.jpg
+wwwroot\Content\images\productslide-5.jpg
+wwwroot\Content\images\productslide-6.jpg
+wwwroot\Content\images\quality-rating.png
+wwwroot\Content\images\search.png
+wwwroot\Content\images\skype.png
+wwwroot\Content\images\slide-1-image.png
+wwwroot\Content\images\slide-2-image.jpg
+wwwroot\Content\images\slide-3-image.jpg
+wwwroot\Content\images\tag.png
+wwwroot\Content\images\thumbnailslide-1.jpg
+wwwroot\Content\images\thumbnailslide-2.jpg
+wwwroot\Content\images\thumbnailslide-3.jpg
+wwwroot\Content\images\thumbnailslide-4.jpg
+wwwroot\Content\images\thumbnailslide-5.jpg
+wwwroot\Content\images\thumbnailslide-6.jpg
+wwwroot\Content\images\Thumbs.db
+wwwroot\Content\images\twitter.png
+wwwroot\Content\images\value-rating.png
+wwwroot\Content\images\wishlist.png
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\Script\easing.js
+wwwroot\Script\easyResponsiveTabs.js
+wwwroot\Script\jquery-1.7.2.min.js
+wwwroot\Script\jquery.accordion.js
+wwwroot\Script\jquery.easing.js
+wwwroot\Script\move-top.js
+wwwroot\Script\script.js
+wwwroot\Script\slides.min.jquery.js
+wwwroot\Script\startstop-slider.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\Content\css\easy-responsive-tabs.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\Content\css\global.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\Content\css\slider.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\Content\css\style.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\css\site.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\favicon.ico
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\js\site.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\Script\easing.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\Script\easyResponsiveTabs.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\Script\jquery-1.7.2.min.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\Script\jquery.accordion.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\Script\jquery.easing.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\Script\move-top.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\Script\script.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\Script\slides.min.jquery.js
+C:\Users\ASUS PC\Downloads\LeMinhQuan_241230827\wwwroot\Script\startstop-slider.js

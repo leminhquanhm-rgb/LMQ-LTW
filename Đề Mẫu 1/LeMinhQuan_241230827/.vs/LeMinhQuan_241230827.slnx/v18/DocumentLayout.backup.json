@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|c:\\users\\asus pc\\downloads\\leminhquan_241230827\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|c:\\users\\asus pc\\downloads\\leminhquan_241230827\\views\\shared\\_leminhquan_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\shared\\_leminhquan_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|c:\\users\\asus pc\\downloads\\leminhquan_241230827\\views\\shared\\components\\lmqloaihang\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\shared\\components\\lmqloaihang\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|c:\\users\\asus pc\\downloads\\leminhquan_241230827\\models\\qlhanghoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:models\\qlhanghoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|c:\\users\\asus pc\\downloads\\leminhquan_241230827\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|c:\\users\\asus pc\\downloads\\leminhquan_241230827\\leminhquan_241230827.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:leminhquan_241230827.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|c:\\users\\asus pc\\downloads\\leminhquan_241230827\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
+              "ToolTip": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T17:30:28.528Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LeMinhQuan_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\Views\\Shared\\_LeMinhQuan_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LeMinhQuan_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\Views\\Shared\\_LeMinhQuan_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LeMinhQuan_Layout.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwEwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T17:03:39.626Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\Views\\Shared\\Components\\LmqLoaiHang\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\LmqLoaiHang\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\Views\\Shared\\Components\\LmqLoaiHang\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\LmqLoaiHang\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T13:40:34.297Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QlhangHoaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\Models\\QlhangHoaContext.cs",
+              "RelativeDocumentMoniker": "Models\\QlhangHoaContext.cs",
+              "ToolTip": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\Models\\QlhangHoaContext.cs",
+              "RelativeToolTip": "Models\\QlhangHoaContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T12:58:35.751Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T13:53:39.778Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeMinhQuan_241230827",
+              "DocumentMoniker": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\LeMinhQuan_241230827.csproj",
+              "RelativeDocumentMoniker": "LeMinhQuan_241230827.csproj",
+              "ToolTip": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\LeMinhQuan_241230827.csproj",
+              "RelativeToolTip": "LeMinhQuan_241230827.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-18T13:38:40.505Z",
+              "OwnerCaption": "LeMinhQuan_241230827"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS PC\\Downloads\\LeMinhQuan_241230827\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T12:47:17.637Z",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lesson12\\LmqLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFD7D405-1BE1-45E7-AC87-9DB95AB3BFA2}|LmqLab.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lesson12\\lmqlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFD7D405-1BE1-45E7-AC87-9DB95AB3BFA2}|LmqLab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFD7D405-1BE1-45E7-AC87-9DB95AB3BFA2}|LmqLab.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lesson12\\lmqlab\\controllers\\lmqdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFD7D405-1BE1-45E7-AC87-9DB95AB3BFA2}|LmqLab.csproj|solutionrelative:controllers\\lmqdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFD7D405-1BE1-45E7-AC87-9DB95AB3BFA2}|LmqLab.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lesson12\\lmqlab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CFD7D405-1BE1-45E7-AC87-9DB95AB3BFA2}|LmqLab.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{057F7A69-EF74-9D1A-B986-7527D361A229}|LmqLab.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\lesson12\\lmqlab\\controllers\\lmqlearnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057F7A69-EF74-9D1A-B986-7527D361A229}|LmqLab.csproj|solutionrelative:controllers\\lmqlearnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LmqDashboardController.cs",
-              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lesson12\\LmqLab\\Controllers\\LmqDashboardController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LmqDashboardController.cs",
-              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lesson12\\LmqLab\\Controllers\\LmqDashboardController.cs",
-              "RelativeToolTip": "Controllers\\LmqDashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T01:49:23.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lesson12\\LmqLab\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lesson12\\LmqLab\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T01:49:09.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lesson12\\LmqLab\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lesson12\\LmqLab\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
+              "Title": "LmqLearnerController.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lesson12\\LmqLab\\Controllers\\LmqLearnerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LmqLearnerController.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\Lesson12\\LmqLab\\Controllers\\LmqLearnerController.cs",
+              "RelativeToolTip": "Controllers\\LmqLearnerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-04T01:49:08.287Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T01:59:56.334Z",
               "EditorCaption": ""
             }
           ]

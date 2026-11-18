@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>@ViewData["Title"]</title>
+
+    <link href="~/Content/css/style.css" rel="stylesheet" />
+    <link href="~/Content/css/global.css" rel="stylesheet" />
+    <link href="~/Content/css/slider.css" rel="stylesheet" />
+    <link href="~/Content/css/easy-responsive-tabs.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <div class="wrap">
+
+        @await Html.PartialAsync("LeMinhQuan_Header")
+
+        <div id="main-content">
+            @RenderBody()
+        </div>
+
+    </div>
+
+    @await Html.PartialAsync("LeMinhQuan_Footer")
+
+    <script src="~/Script/jquery-1.7.2.min.js"></script>
+    <script src="~/Script/easing.js"></script>
+    <script src="~/Script/jquery.easing.js"></script>
+    <script src="~/Script/jquery.accordion.js"></script>
+    <script src="~/Script/easyResponsiveTabs.js"></script>
+    <script src="~/Script/move-top.js"></script>
+    <script src="~/Script/slides.min.jquery.js"></script>
+    <script src="~/Script/script.js"></script>
+    <script src="~/Script/startstop-slider.js"></script>
+
+   
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <script>
+        $(document).ready(function () {
+
+            $(document).on("click", ".lmq-loai-link", function (e) {
+
+                e.preventDefault();
+
+                var $link = $(this);
+                var url = $link.attr("href");
+
+                if ($link.closest(".menu").length > 0) {
+                    $(".menu ul li").removeClass("active");
+                    $link.closest("li").addClass("active");
+                } else {
+                    $(".menu ul li").removeClass("active");
+                    $(".menu ul li:first").addClass("active");
+                }
+
+                $.ajax({
+                    url: url,
+                    type: "GET",
+                    dataType: "html",
+
+                    success: function (result) {
+                        $("#main-content").html(result);
+                    },
+
+                    error: function () {
+                        alert("Khong the tai danh sach hang hoa!");
+                    }
+                });
+
+            });
+
+        });
+    </script>
+
+
+
+
+
+</body>
+</html>
