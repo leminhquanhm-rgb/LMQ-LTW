@@ -1,0 +1,42 @@
+﻿@model LeMinhQuan_241230827.Models.Sach
+@{
+    ViewData["Title"] = "Thêm sách mới";
+}
+
+<main class="main">
+    <div class="container">
+        <div class="section-head">
+            <h3>Lê Minh Quân - Thêm sách mới</h3>
+        </div>
+
+        <form asp-action="Create" method="post"
+              style="display:inline-block;min-width:320px;background:#fff;padding:14px 16px;border-radius:4px">
+            <div>
+                <label asp-for="MaTl">MaTL</label><br />
+                <select asp-for="MaTl" asp-items="(SelectList)ViewBag.DsTheLoai"></select>
+            </div>
+            <div>
+                <label asp-for="TenSach">TenSach</label><br />
+                <input asp-for="TenSach" style="width:100%" /><br />
+                <span asp-validation-for="TenSach" style="color:red;font-size:13px"></span>
+            </div>
+            <div>
+                <label asp-for="Gia">Gia</label><br />
+                <input asp-for="Gia" style="width:100%" /><br />
+                <span asp-validation-for="Gia" style="color:red;font-size:13px"></span>
+            </div>
+            <div>
+                <label asp-for="Anh">Anh</label><br />
+                <input asp-for="Anh" style="width:100%" /><br />
+                <span asp-validation-for="Anh" style="color:red;font-size:13px"></span>
+            </div>
+            <div style="margin-top:10px">
+                <button type="submit" class="btn-buy">Create</button>
+            </div>
+        </form>
+    </div>
+</main>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

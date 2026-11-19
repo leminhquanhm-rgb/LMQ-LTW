@@ -1,0 +1,19 @@
+﻿@model List<LeMinhQuan_241230827.Models.TheLoai>
+
+<nav class="navbar">
+    <div class="container">
+        <ul class="menu">
+            <li class="active"><a asp-controller="Home" asp-action="Index">Lê Minh Quân</a></li>
+            @foreach (var tl in Model)
+            {
+                <li>
+                    <a class="menu-tl" asp-controller="Home" asp-action="SachTheoTheLoai" asp-route-maTL="@tl.MaTl">@tl.TenTl</a>
+                </li>
+            }
+        </ul>
+        <form class="search-box">
+            <input type="text" placeholder="Tìm sách..." />
+            <button type="button">Tìm</button>
+        </form>
+    </div>
+</nav>

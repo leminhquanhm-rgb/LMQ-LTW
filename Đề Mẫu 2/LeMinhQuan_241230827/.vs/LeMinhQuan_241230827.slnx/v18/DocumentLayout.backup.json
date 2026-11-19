@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\views\\shared\\leminhquan_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\shared\\leminhquan_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\views\\shared\\leminhquan_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\shared\\leminhquan_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\views\\sach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\sach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\models\\sachmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:models\\sachmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\wwwroot\\js\\leminhquan.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:wwwroot\\js\\leminhquan.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\views\\shared\\leminhquan_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\shared\\leminhquan_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\models\\sachlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:models\\sachlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\views\\shared\\components\\leminhquan_menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\shared\\components\\leminhquan_menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\viewcomponents\\leminhquan_menuviewcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:viewcomponents\\leminhquan_menuviewcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\views\\shared\\leminhquan_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\shared\\leminhquan_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\leminhquan_241230827.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:leminhquan_241230827.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 2\\leminhquan_241230827\\models\\qlnhasachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:models\\qlnhasachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Sach\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sach\\Create.cshtml",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Sach\\Create.cshtml",
+              "RelativeToolTip": "Views\\Sach\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T09:16:43.992Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SachMetadata.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Models\\SachMetadata.cs",
+              "RelativeDocumentMoniker": "Models\\SachMetadata.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Models\\SachMetadata.cs",
+              "RelativeToolTip": "Models\\SachMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:56:17.808Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeMinhQuan.js",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\wwwroot\\js\\LeMinhQuan.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\LeMinhQuan.js",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\wwwroot\\js\\LeMinhQuan.js",
+              "RelativeToolTip": "wwwroot\\js\\LeMinhQuan.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-19T07:53:44.715Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeMinhQuan_MainContent.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Shared\\LeMinhQuan_MainContent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\LeMinhQuan_MainContent.cshtml",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Shared\\LeMinhQuan_MainContent.cshtml",
+              "RelativeToolTip": "Views\\Shared\\LeMinhQuan_MainContent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T07:44:34.111Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeMinhQuan_Header.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Shared\\LeMinhQuan_Header.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\LeMinhQuan_Header.cshtml",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Shared\\LeMinhQuan_Header.cshtml",
+              "RelativeToolTip": "Views\\Shared\\LeMinhQuan_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T07:42:07.679Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeMinhQuan_Layout.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Shared\\LeMinhQuan_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\LeMinhQuan_Layout.cshtml",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Shared\\LeMinhQuan_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\LeMinhQuan_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T07:41:38.767Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SachController.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Controllers\\SachController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SachController.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Controllers\\SachController.cs",
+              "RelativeToolTip": "Controllers\\SachController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T09:05:21.492Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T09:15:42.434Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:11:08.001Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SachListViewModel.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Models\\SachListViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\SachListViewModel.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Models\\SachListViewModel.cs",
+              "RelativeToolTip": "Models\\SachListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:10:05.848Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:39:01.813Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T08:09:28.289Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Shared\\Components\\LeMinhQuan_Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\LeMinhQuan_Menu\\Default.cshtml",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Shared\\Components\\LeMinhQuan_Menu\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\LeMinhQuan_Menu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T08:02:35.102Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeMinhQuan_MenuViewComponents.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\ViewComponents\\LeMinhQuan_MenuViewComponents.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\LeMinhQuan_MenuViewComponents.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\ViewComponents\\LeMinhQuan_MenuViewComponents.cs",
+              "RelativeToolTip": "ViewComponents\\LeMinhQuan_MenuViewComponents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:56:47.089Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeMinhQuan_Footer.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Shared\\LeMinhQuan_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\LeMinhQuan_Footer.cshtml",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\Shared\\LeMinhQuan_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\LeMinhQuan_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T07:42:24.777Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-19T07:45:02.204Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeMinhQuan_241230827",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\LeMinhQuan_241230827.csproj",
+              "RelativeDocumentMoniker": "LeMinhQuan_241230827.csproj",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\LeMinhQuan_241230827.csproj",
+              "RelativeToolTip": "LeMinhQuan_241230827.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-19T07:55:22.454Z",
+              "OwnerCaption": "LeMinhQuan_241230827"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-19T07:37:33.352Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "Models\\TheLoai.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Models\\TheLoai.cs",
+              "RelativeToolTip": "Models\\TheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:37:30.218Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Models\\Sach.cs",
+              "RelativeDocumentMoniker": "Models\\Sach.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Models\\Sach.cs",
+              "RelativeToolTip": "Models\\Sach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:37:28.962Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QLNhaSachContext.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Models\\QLNhaSachContext.cs",
+              "RelativeDocumentMoniker": "Models\\QLNhaSachContext.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 2\\LeMinhQuan_241230827\\Models\\QLNhaSachContext.cs",
+              "RelativeToolTip": "Models\\QLNhaSachContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBcAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:37:14.727Z",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
