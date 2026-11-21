@@ -1,0 +1,16 @@
+﻿@model List<TaiSan>
+
+<!-- Begin Main Content -->
+<main class="main">
+    <div class="container">
+        <div class="banner"><img src="~/images/banner.jpg" alt="Banner" /></div>
+        <p style="margin:15px 0"><a asp-controller="Home" asp-action="Create" class="btn-buy">+ Thêm tài sản</a></p>
+
+        <div id="khu-vuc-ts">
+            <partial name="LeMinhQuan_DanhSachTS" model="Model"/>
+        </div>
+      
+        
+    </div>
+</main>
+<!-- End Main Content -->

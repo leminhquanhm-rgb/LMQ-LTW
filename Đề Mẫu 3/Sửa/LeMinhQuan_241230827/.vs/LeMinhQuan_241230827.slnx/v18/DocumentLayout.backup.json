@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 3\\S\u1EEDa\\LeMinhQuan_241230827\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 3\\s\u1EEDa\\leminhquan_241230827\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 3\\s\u1EEDa\\leminhquan_241230827\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 3\\s\u1EEDa\\leminhquan_241230827\\views\\shared\\leminhquan_danhsachts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:views\\shared\\leminhquan_danhsachts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|e:\\l\u1EADp tr\u00ECnh web\\b\u00E0i t\u1EADp\\\u0111\u1EC1 m\u1EABu 3\\s\u1EEDa\\leminhquan_241230827\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39F6745-524B-6E3D-3721-4377F9B053E0}|LeMinhQuan_241230827.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 3\\S\u1EEDa\\LeMinhQuan_241230827\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 3\\S\u1EEDa\\LeMinhQuan_241230827\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T13:05:36.949Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeMinhQuan_DanhSachTS.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 3\\S\u1EEDa\\LeMinhQuan_241230827\\Views\\Shared\\LeMinhQuan_DanhSachTS.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\LeMinhQuan_DanhSachTS.cshtml",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 3\\S\u1EEDa\\LeMinhQuan_241230827\\Views\\Shared\\LeMinhQuan_DanhSachTS.cshtml",
+              "RelativeToolTip": "Views\\Shared\\LeMinhQuan_DanhSachTS.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T13:02:43.947Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 3\\S\u1EEDa\\LeMinhQuan_241230827\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 3\\S\u1EEDa\\LeMinhQuan_241230827\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T12:52:52.573Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 3\\S\u1EEDa\\LeMinhQuan_241230827\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\L\u1EADp Tr\u00ECnh Web\\B\u00E0i T\u1EADp\\\u0110\u1EC1 M\u1EABu 3\\S\u1EEDa\\LeMinhQuan_241230827\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwEgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T12:43:06.6Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

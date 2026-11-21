@@ -1,0 +1,43 @@
+﻿@model TaiSan
+@{
+    ViewData["Title"] = "Sửa tài sản";
+}
+
+<div class="form-box">
+    <h3>Sửa thông tin tài sản</h3>
+
+    <form asp-action="Edit" asp-route-id="@Model.MaTs" method="post">
+        <input type="hidden" asp-for="MaTs" />
+
+        <div class="form-row">
+            <label asp-for="MaLoai"></label>
+            <select asp-for="MaLoai" asp-items="@(ViewBag.DsLoai as IEnumerable<SelectListItem>)"></select>
+            <span asp-validation-for="MaLoai" class="text-error"></span>
+        </div>
+
+        <div class="form-row">
+            <label asp-for="TenTs"></label>
+            <input asp-for="TenTs" />
+            <span asp-validation-for="TenTs" class="text-error"></span>
+        </div>
+
+        <div class="form-row">
+            <label asp-for="NguyenGia"></label>
+            <input asp-for="NguyenGia" />
+            <span asp-validation-for="NguyenGia" class="text-error"></span>
+        </div>
+
+        <div class="form-row">
+            <label asp-for="Anh"></label>
+            <input asp-for="Anh" placeholder="Ví dụ: Img_1.jpg" />
+            <span asp-validation-for="Anh" class="text-error"></span>
+        </div>
+
+        <button type="submit" class="btn-buy">Save</button>
+        <a asp-action="Index">Quay lại</a>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
